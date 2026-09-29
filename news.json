@@ -3,7 +3,7 @@
     "date": "2026-09-30",
     "tag": "Phiên bản",
     "title": "Bản 0.3.21: Tân Thủ đổi chiêu theo vũ khí, mũi tên chỉ hướng đánh",
-    "body": "Tân Thủ giờ có bộ ba chiêu riêng cho từng loại vũ khí đang cầm, mở ở cấp 3, 5 và 7: cầm kiếm có Lao Tới, Chém Quét và Lấy Lại Sức; cầm dao găm có Lách Người, Ném Dao và Mắt Tinh; cầm gậy có Tia Năng Lượng, Sóng Đẩy và Tĩnh Tâm; cầm cung có Bắn Đôi, Nhảy Lùi và Nín Thở. Đổi vũ khí là thanh chiêu đổi theo, và mỗi chiêu có biểu tượng cùng hiệu ứng riêng. Trên điện thoại có thêm mũi tên dưới chân chỉ hướng đòn đánh sắp đi, tắt được trong Cài Đặt."
+    "body": "Tân Thủ giờ có bộ ba chiêu riêng cho từng loại vũ khí đang cầm, mở ở cấp 3, 5 và 7: cầm kiếm có Lao Tới, Chém Quét và Lấy Lại Sức; cầm dao găm có Lách Người, Ném Dao và Mắt Tinh; cầm gậy có Tia Năng Lượng, Sóng Đẩy và Tĩnh Tâm; cầm cung có Bắn Đôi, Nhảy Lùi và Nín Thở. Đổi vũ khí là thanh chiêu đổi theo, và mỗi chiêu có biểu tượng cùng hiệu ứng riêng. Trên điện thoại có thêm mũi tên dưới chân chỉ hướng đòn đánh sắp đi, tắt được trong Cài Đặt. Cũng trên điện thoại: đã sửa lỗi không gửi được tin nhắn chat, và menu khi nhấn giữ vào người chơi khác giờ cuộn được."
   },
   {
     "date": "2026-09-30",

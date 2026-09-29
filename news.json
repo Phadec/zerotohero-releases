@@ -1,0 +1,392 @@
+[
+  {
+    "date": "2026-09-29",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.19: Open Beta — âm thanh mới, trang bị Huyền Thoại",
+    "body": "Zero to Hero mở Open Beta từ hôm nay, 29/09/2026: ai cũng tải được, chơi miễn phí trên PC và Android. Âm thanh làm lại từ đầu: mỗi chiêu một tiếng riêng vừa khít thời gian ra chiêu, quái kêu theo loài, bước chân và vó ngựa đổi theo mặt đất, và mỗi bản đồ có bài nhạc riêng, cùng nhạc đăng nhập và nhạc đánh boss mới. Những tiếng chói nhất đã dịu lại. Trang bị hiếm mới: mỗi hệ phái một bộ Huyền Thoại cấp 60 gồm sáu món, vũ khí là vũ khí hệ phái rèn lại với nội tại mạnh hơn, đủ bốn món thì cơ chế của hệ phái mạnh thêm; rơi rất hiếm từ boss thế giới và boss cuối game. Mỗi lớp còn có bốn bộ sử thi năm món ở cấp 20, 30, 40 và 50, rơi từ boss đúng cấp. Tất cả đều giao dịch được. Bình máu và bình mana giờ hồi trong 15 giây."
+  },
+  {
+    "date": "2026-09-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.18: Huyết Ma hóa thân, chém lên chém xuống",
+    "body": "Cuồng Chiến thức tỉnh giờ hóa thân Huyết Ma thật sự, ai đứng gần cũng thấy: người đỏ đen, sừng xương, vuốt xương ở hai tay, búa đeo sau lưng. Bộ chiêu Huyết Ma đổi hẳn: Huyết Ma Trảo cào nhanh, Huyết Ma Ảnh tan thành sương máu rồi hiện ra ở chỗ nhắm, Huyết Ma Trì mở vũng máu cho vuốt trồi lên, Huyết Ma Liệt Trảo phóng ba vết vuốt máu xuyên thẳng. Đòn cận chiến nhắm lên hay xuống có động tác riêng: giơ qua đầu bổ xuống trước mặt, hoặc vung từ dưới lên qua đầu. Tên, phép và chiêu thả xuống đất bay đúng chỗ nhắm ở mọi hướng. Vong hồn của Ám Sư không còn tích Linh Hồn thay chủ. Cảnh phim đã xem được lưu trên máy chủ, có thêm cảnh khi vào hầm và khi gặp sự kiện; kẻ bị rượt đuổi mất dấu khi khuất tầm nhìn. Mũi tên và phép bắn qua sông, hồ, bãi nông, dung nham không còn bị chặn lại ở bờ. Mắt Ưng giờ thật sự bắn nhanh hơn: kéo cung đầy cũng nhanh theo tốc đánh. Bom Khói vẽ lại: nổ lúc bom chạm đất, khói cuồn cuộn và người đứng lẫn trong khói. Màn chào 1681 Studio lúc mở game không còn giật."
+  },
+  {
+    "date": "2026-09-27",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.17: mượt hơn, tự cập nhật ổn định",
+    "body": "Máy chủ gửi ít dữ liệu hơn khi đông người: thanh hệ phái chỉ gửi khi đổi, tin nhắn chung đóng gói một lần, lưu nhân vật theo lô. Game bớt giật khi đánh nhau nhờ không tạo đồ mới mỗi khung hình (số sát thương, bóng lướt, nhãn tên). Sửa lỗi tổ đội đôi khi lệch thành viên, đồng hồ nhiệm vụ hạn giờ tính theo giờ máy chủ, vài dòng chữ còn kẹt tiếng Việt khi chơi bằng tiếng Anh. Bản PC sửa lỗi \"Failed to uninstall old application files\" khi tự cập nhật: trình cài đặt tự đóng game cũ trước khi gỡ."
+  },
+  {
+    "date": "2026-09-27",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.16: nhiệm vụ tại chỗ",
+    "body": "Đến nơi không còn chỉ là đứng vào vòng: có chỗ phải đánh lính canh hiện ra, lục soát, đi các điểm đúng thứ tự, làm điệu bộ, đập vật chắn, trình bằng chứng, tìm chỗ giấu theo nóng lạnh, giữ vòng trước từng đợt quái, lần theo dấu chân, lẻn qua đèn của người canh hay đuổi theo kẻ bỏ chạy. Đồ dễ vỡ được bưng bằng hai tay: trúng đòn là vỡ, không lăn né, không cưỡi ngựa. Trưởng làng Aldric giờ đòi xem tờ giấy chép tên trên vách trại cướp (Garrick đưa giấy); trong mỏ Gravemoss lối vào Long Hall bị xây bít, phải đập ra; ai mất bản dập chín dấu ấn có thể lấy lại ở hòm trong hầm Blackoak. Máy chủ chặn gửi lệnh quá nhanh, đăng ký và đoán mật khẩu hàng loạt; đứng yên 20 phút khi máy chủ gần đầy sẽ bị mời ra."
+  },
+  {
+    "date": "2026-09-26",
+    "tag": "Phiên bản",
+    "title": "Thẻ Sự kiện, cung quái gồng dây",
+    "body": "Cung thủ quái kéo căng dây cung trước khi bắn, nhìn là biết sắp có tên bay tới. Nhật ký nhiệm vụ (J) có thêm thẻ Sự kiện: sự kiện đang diễn ra, lịch boss thế giới và các sự kiện theo giờ kèm giờ bắt đầu, nơi diễn ra và phần thưởng; bảng boss thế giới trên màn hình đã bỏ. Bảng nhiệm vụ bên trái chỉ hiện tối đa 3 nhiệm vụ kèm số nhiệm vụ còn lại, bảng sự kiện cũng vậy. Khung chat thu gọn vẫn hiện vài dòng mới nhất. Bấm thẻ là chuyển ngay, dòng đang chọn giữ viền vàng khi rê chuột, cửa sổ giao dịch không còn lệch lên trên."
+  },
+  {
+    "date": "2026-09-26",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.12",
+    "body": "Cây cối Eldmoor vẽ lại: táo quét vôi gốc (có cây đang ra hoa), đoạn và dẻ ngựa trong bồn đá vôi, hàng rào xén có quả cầu cắt tỉa, bờ giậu táo gai ngoài đồng với hoa trắng, quả đỏ và cây phong. Kiếm Xung Kích đã trúng mục tiêu đầu tiên thì xuyên luôn qua tường phía sau, bay hết tầm và chém mọi quái trên đường."
+  },
+  {
+    "date": "2026-09-25",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.11",
+    "body": "Chiêu thức của cả bốn lớp và mười hai hệ phái có động tác riêng và hiệu ứng mới: nét dày hơn, tàn ảnh khi lướt, dấu để lại trên đất sau chiêu tối thượng. Chém, đâm, bắn và ném giới hạn trong góc 60°. Cung Thủ và Pháp Sư bắn xen chiêu, bấm chiêu sớm không còn bị nuốt. Mana các chiêu tăng 1,5 lần. Chữ không còn kẹt tiếng Anh khi đổi ngôn ngữ. Từ bản này game tự cập nhật: bản PC tự tải bản mới ở màn đăng nhập và cài khi khởi động lại, bản Android báo có bản mới kèm nút tải."
+  },
+  {
+    "date": "2026-09-25",
+    "tag": "Chiến Binh",
+    "title": "Kiếm và thép",
+    "body": "Nhát chém thường gọn trước ngực, không còn quét vòng qua đầu. Xung Phong cày hai vệt trên đất, gió xé sau lưng và kết bằng một nhát chém có tia lửa. Kiếm Xung Kích vung rộng, sóng kiếm to bằng làn đường nó cắt và bay ra đúng lúc lưỡi kiếm quét qua — quái không còn trúng đòn trước khi thấy sóng. Lốc Xoáy cuốn gió và bụi quanh chân, mỗi vòng hất ra một luồng gió. Chiến Hống dậm chân tung bụi rồi giơ kiếm hét. Phán Quyết giơ kiếm gom sáng thành ngôi sao, rồi cắm kiếm xuống đất: cột sáng giáng xuống và tám vết nứt sáng chạy ra."
+  },
+  {
+    "date": "2026-09-25",
+    "tag": "Pháp Sư",
+    "title": "Lửa, băng và phép",
+    "body": "Phép Cơ Bản đứng yên khi bắn, hết giật. Cầu Lửa gom lửa ở đầu trượng rồi rời trượng đúng lúc đẩy, kèm vòng nhiệt bung ra. Băng Giá để lại sương giá lấp lánh và những mảng băng nứt tan dần. Thiên Thạch có động tác gọi trời riêng và để lại hố cháy với viền than nguội dần. Dịch Chuyển để lại tàn ảnh tím ở chỗ biến mất. Hộ Thể Quang có động tác dựng khiên riêng."
+  },
+  {
+    "date": "2026-09-25",
+    "tag": "Cung Thủ",
+    "title": "Bẫy Nổ vẽ lại",
+    "body": "Bẫy Nổ giờ là một chiếc bẫy sắt thật: hàm răng cưa, lò xo, xích và túi thuốc nổ có ngòi. Người đặt quỳ xuống ấn hàm bẫy; khi có quái giẫm, hàm sập lại tóe lửa rồi nổ tung, để lại đất cháy xém. Bắn Nhiều Tên, Mắt Ưng có động tác riêng; mỗi phát bắn hất chút bụi dưới gót; Mưa Tên để lại một bãi tên cắm trên đất."
+  },
+  {
+    "date": "2026-09-24",
+    "tag": "Thích Khách",
+    "title": "Bóng tím",
+    "body": "Nhát đâm thứ hai móc cong, nhát kết thúc có bóng tím đuổi theo và mũi dao lóe sáng. Phi Dao ném liền hai tay. Ảnh Bộ để lại tàn ảnh ở chỗ biến mất, Ám Sát rải ba tàn ảnh dọc đường lướt. Màn Bóng Tối có động tác thu mình riêng."
+  },
+  {
+    "date": "2026-09-24",
+    "tag": "Hệ phái",
+    "title": "Tàn ảnh và dấu tối thượng",
+    "body": "Mọi chiêu lướt của hệ phái để lại tàn ảnh theo màu của chiêu: vàng của Hộ Vệ, thép của Kỵ Sĩ (cả con ngựa), xanh gió của Phong Xạ, tím của Sát Thủ. Chiêu tối thượng để lại dấu trên đất: vòng ấn vàng của Hộ Vệ, máu văng của Cuồng Chiến, dấu móng ngựa của Kỵ Sĩ, cháy – băng – sét của Đại Pháp Sư, mảnh băng của Băng Nữ, đất héo của Ám Sư, cỏ rạp xoáy của Phong Xạ, vết cào của Thú Vương, dấu X của Sát Thủ, vũng bóng của Ảnh Vũ Giả, vũng độc sủi bọt của Độc Sư. Năm chiêu Phong Xạ có động tác riêng và hiệu ứng khớp nhịp."
+  },
+  {
+    "date": "2026-09-24",
+    "tag": "Chiến đấu",
+    "title": "Góc đánh 60°, bắn xen chiêu, mana",
+    "body": "Chém, đâm, bắn và ném không còn đi thẳng lên đầu hay xuống chân: nhắm dốc hơn 60° thì đòn đi ở góc 60° về phía nhân vật đang quay mặt. Cung Thủ và Pháp Sư bắn thường xen giữa các chiêu như Chiến Binh và Thích Khách; gồng cung rồi Nhảy Lùi vẫn bắn được ngay. Bấm chiêu sớm dưới 0,2 giây trước khi chiêu trước xong thì chiêu vẫn ra. Mana tốn của mọi chiêu tăng 1,5 lần."
+  },
+  {
+    "date": "2026-09-23",
+    "tag": "Sửa lỗi",
+    "title": "Đổi ngôn ngữ, mũi tên, hướng dẫn",
+    "body": "Đổi Tiếng Việt / English không còn để lại tên quái, NPC, cổng hay dòng chat kẹt ở ngôn ngữ cũ. Mũi tên không còn bay ra sau lưng khi nhắm gần thẳng lên. Gồng cung rồi dùng chiêu không còn làm mất mũi tên. Trên điện thoại, nút Bỏ qua của hướng dẫn tân thủ nằm ngay đầu thẻ. Vesna đứng chờ ở cửa Vọng Thiên Cơ cho những ai đã đọc cuốn sổ cho bà nghe."
+  },
+  {
+    "date": "2026-09-23",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.10",
+    "body": "Chọn Tiếng Việt hoặc English ngay ở màn hình đăng nhập và trong Cài Đặt, đổi là có ngay không cần tải lại: giao diện, tin nhắn máy chủ và toàn bộ nội dung (nhiệm vụ, NPC, vật phẩm, kỹ năng, bản đồ) đều có đủ hai thứ tiếng. Cung kéo để xoay hướng bắn, mũi tên bay đúng hướng kéo."
+  },
+  {
+    "date": "2026-09-23",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.9",
+    "body": "Hộ tống có phục kích và có thể thất bại; khóa mục tiêu trên điện thoại; giao diện điện thoại gọn hơn; Dẫn đường hết giật; bản iPhone kết nối được máy chủ; nhiều tên gọi đổi cho rõ nghĩa; menu người chơi có thêm nút Giao dịch."
+  },
+  {
+    "date": "2026-09-23",
+    "tag": "Nhiệm vụ",
+    "title": "Hộ tống có phục kích",
+    "body": "Tám chuyến hộ tống giờ gặp phục kích dọc đường: sói, cướp, thú đầm, người chết dưới cỏ, đội đốt của Giáo Hội. Người được hộ tống có thanh máu, đứng lại chờ bạn dọn đường, và nếu họ gục thì chuyến đi hỏng — nhận lại từ người giao việc."
+  },
+  {
+    "date": "2026-09-22",
+    "tag": "Điện thoại",
+    "title": "Khóa mục tiêu",
+    "body": "Kéo nút đánh để chọn mục tiêu, thả tay là khóa: đòn đánh, kỹ năng và hướng nhìn đều nhắm vào nó, kể cả khi đang chạy. Chạm nút đánh vẫn là đánh thường. Đường nhắm chiêu là hàng mũi tên pixel, hồi chiêu quét tròn theo nút, giao diện phía trên gọn hơn, minimap to hơn, bản đồ lớn rõ nét hơn."
+  },
+  {
+    "date": "2026-09-22",
+    "tag": "Sửa lỗi",
+    "title": "Đăng nhập trên iPhone, Dẫn đường, tên gọi",
+    "body": "Bản iPhone kết nối được máy chủ và không còn kẹt ở «Đang mở cửa…». Dẫn đường đi mượt, không giật lùi mỗi giây. Nhiều tên gọi cũ được đổi cho rõ nghĩa: Thợ Đốn Gỗ Wend, Người Hát Rong Florian, Quái Nhờn, Hiệp Sĩ Than Hồng, bộ Vảy Rồng, Đỉnh Ashenspire, và vài kỹ năng hệ phái."
+  },
+  {
+    "date": "2026-09-21",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.8",
+    "body": "Hiệu ứng kỹ năng vẽ lại toàn bộ theo nét pixel của thế giới: đòn trúng, đạn bay, nhát chém của từng loại vũ khí, lớp hiệu ứng riêng theo chất liệu của mỗi hệ phái và dấu trạng thái. Đòn trúng và vụ nổ của đạn hiện ở mặt trước thân quái. Nỏ Thần Xạ kê ngang khi gồng; khung nhiệm vụ thu gọn được."
+  },
+  {
+    "date": "2026-09-21",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.7",
+    "body": "Sửa lỗi đánh trúng chiếc xe hộ tống vô hình ở rừng Sồi Đen (hiện số sát thương giữa khoảng trống) và thú nuôi vồ vào đó. Xe hàng và đoàn người đi bộ có bóng đổ vừa khít, không còn trông như lơ lửng."
+  },
+  {
+    "date": "2026-09-20",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.6",
+    "body": "Nhân vật, vũ khí cầm tay, quái trên cấp 30 và 60 icon kỹ năng hệ phái được vẽ lại theo chuẩn mới."
+  },
+  {
+    "date": "2026-09-20",
+    "tag": "Nhân vật",
+    "title": "Áo, tóc, mũ và vũ khí có khối",
+    "body": "Áo choàng có nếp, tay chân và thân áo có bóng, mặt có sống mũi và gò má. Mũ trùm, mặt nạ, mũ kín và tóc không còn là một mảng màu phẳng. Cả 68 vũ khí cầm tay có viền mới và nhiều tông hơn; khiên Thiết Thủ giờ là ván gỗ đai đồng."
+  },
+  {
+    "date": "2026-09-19",
+    "tag": "Quái vật",
+    "title": "Quái trên cấp 30 vẽ lại",
+    "body": "26 quái thú của chương 5–8 có tư thế lấy đà riêng cho từng đòn; Cây Mẹ vẽ đúng cỡ. 21 quái hình người, từ Thiếu Tá Wrenn tới Sable và Sarkaine, có màu áo theo vùng, vũ khí mới và đòn chém mới."
+  },
+  {
+    "date": "2026-09-19",
+    "tag": "Kỹ năng",
+    "title": "Icon kỹ năng hệ phái",
+    "body": "Sáu mươi icon kỹ năng của mười hai hệ phái được vẽ lại, mỗi họ trên nền của lớp gốc."
+  },
+  {
+    "date": "2026-09-18",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.5",
+    "body": "Quái cũ vẽ lại, thú cưỡi và thú nuôi mới, giao diện pixel trong mọi cửa sổ, icon kỹ năng mới và cổng giữa các vùng đúng hướng."
+  },
+  {
+    "date": "2026-09-18",
+    "tag": "Quái vật",
+    "title": "Hỏa Long, Vua Sói và quái cũ vẽ lại",
+    "body": "Hỏa Long Ashenspire và Cinderwing có tư thế lấy đà riêng cho từng đòn, lửa và thiên thạch mới. Vua Sói Fenrir cùng cả bầy sói, Hoarfang và sói đầu đàn rỉ mạch được vẽ lại. Quái Nhờn, lính canh Veyrn, chó tro, băng cướp của Grimwald, hồn sương, quỷ đầm, Hiệp Sĩ Than Hồng và cai ngục có dáng, vũ khí và đòn đánh mới."
+  },
+  {
+    "date": "2026-09-17",
+    "tag": "Thú cưỡi",
+    "title": "Chiến Mã, Hổ Tuyết và bạn đồng hành mới",
+    "body": "Chiến Mã và Hổ Tuyết vẽ lại. Mới: Ngựa Thảo Nguyên Karsten (nhiệm vụ của Bà Ilka, Biên Ải), Dê Con Vòng Cỏ (nhiệm vụ của Tomas, Hollowfen) và Mắt Canh (rơi trong Trong Vọng Thiên Cơ)."
+  },
+  {
+    "date": "2026-09-17",
+    "tag": "Giao diện",
+    "title": "Giao diện pixel",
+    "body": "Màn đăng nhập bằng đá Veyrn, mọi cửa sổ trong game bằng đồng thau: nút, ô nhập, tab, danh sách, ô túi đồ, thanh và thanh cuộn đều vẽ pixel. Icon kỹ năng của năm lớp được vẽ lại."
+  },
+  {
+    "date": "2026-09-16",
+    "tag": "Bản đồ",
+    "title": "Cổng đúng hướng, NPC theo màu vùng",
+    "body": "Đi ra mép nào thì đến mép đối diện: Vọng Thiên Cơ giờ mở cửa ở mép nam, Voorn ở mép bắc, Hollowfen đón người từ Dunmarch ở mép bắc. Áo quần của NPC mọi vùng mang màu của vùng đó."
+  },
+  {
+    "date": "2026-09-16",
+    "tag": "Chiến đấu",
+    "title": "Thanh gồng cung và thanh nộ",
+    "body": "Thanh gồng cung luôn sáng vàng khi kéo căng hết cỡ, và thanh tài nguyên hệ phái (Nộ Khí, Thủ Thế, Đà…) chuyển vàng nhạt khi đầy."
+  },
+  {
+    "date": "2026-09-15",
+    "tag": "Hầm ngục",
+    "title": "Tám hầm ngục vẽ lại",
+    "body": "Karath Vel (cả tầng sâu), Dưới Gò Đá, Thư Khố Dưới Kinh Thành, Trong Vọng Thiên Cơ, Làng Dưới Cỏ, Họng Vết Nứt, Thành Phố Gương và Ngục Đá Dunmarch: mỗi hầm có đá, sàn, đèn và đồ đạc riêng, bố cục mới nhiều lối vòng."
+  },
+  {
+    "date": "2026-09-15",
+    "tag": "Bản đồ",
+    "title": "Voorn, Aldermark và Vọng Thiên Cơ mới",
+    "body": "Ngoại Giới Voorn và Vườn Của Người Gác, Kinh Thành Aldermark với cung điện và nhà thờ lớn, Vọng Thiên Cơ hai nửa, Trạm Muối Cũ của Sable đều được vẽ lại từ đầu."
+  },
+  {
+    "date": "2026-09-14",
+    "tag": "Chiến đấu",
+    "title": "Kỵ Sĩ đâm thương từ trên ngựa",
+    "body": "Trên lưng ngựa, thương của Kỵ Sĩ đâm theo đúng hướng nhắm, kể cả thẳng xuống chân ngựa."
+  },
+  {
+    "date": "2026-09-14",
+    "tag": "Bản đồ",
+    "title": "Lội qua đầm Mistmoor",
+    "body": "Nước nông, lau sậy và cỏ nến ở đầm lầy và Đảo Vạc giờ lội qua được. Không còn vật cản vô hình: chỗ nào bị chắn thì có vật đứng đó."
+  },
+  {
+    "date": "2026-09-12",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.0",
+    "body": "Ra dáng một MMORPG: ngày và đêm, thời tiết, nhiệm vụ hằng ngày và hằng tuần, điểm danh, boss thế giới, độ khó hầm ngục, bạn bè và thì thầm. Có bản Android và bản iPhone thử nghiệm với điều khiển cảm ứng. Vũ khí và giáp tới cấp 60, bộ đồ riêng cho 12 hệ phái. Máy chủ gánh được khoảng 300 người một thị trấn."
+  },
+  {
+    "date": "2026-09-11",
+    "tag": "Thế giới",
+    "title": "Ngày, đêm và thời tiết",
+    "body": "Trời sáng tối theo giờ máy chủ; ban đêm đèn, lửa và cửa sổ tự sáng. Mưa, tuyết, sương mù theo vùng — các bản đồ cạnh nhau chung một bầu trời. Cây lay trong gió, nước lấp lánh, khói bốc từ ống khói, chim, bướm và đom đóm. Tắt được trong Cài Đặt."
+  },
+  {
+    "date": "2026-09-10",
+    "tag": "Tính năng",
+    "title": "Nhiệm vụ ngày, tuần và điểm danh",
+    "body": "Một số việc làm lại được mỗi ngày hoặc mỗi tuần (làm mới lúc 5 giờ sáng, tuần mới vào thứ Hai). Lịch điểm danh theo tài khoản, đăng nhập liên tiếp nhận quà."
+  },
+  {
+    "date": "2026-09-10",
+    "tag": "Sự kiện",
+    "title": "Boss thế giới và độ khó hầm",
+    "body": "Bốn boss thế giới xuất hiện theo lịch ở Rừng Sồi Đen, đầm lầy, đỉnh Ashenspire và Voorn, máu tăng theo số người có mặt; đồng hồ trên HUD báo giờ boss kế tiếp. Hầm ngục chọn độ khó ở cửa: quái mạnh hơn, rơi đồ nhiều hơn."
+  },
+  {
+    "date": "2026-09-09",
+    "tag": "Xã hội",
+    "title": "Bạn bè, thì thầm, xem trang bị",
+    "body": "Kết bạn, thấy bạn online, thì thầm riêng, xem trang bị người khác, chặn hoặc tắt tiếng người chơi, báo cáo người quấy rối. Chat có bộ lọc từ ngữ. Giữ Shift và nhấp phải lên người chơi (hoặc nhấn giữ trên điện thoại) để mở menu."
+  },
+  {
+    "date": "2026-09-08",
+    "tag": "Nền tảng",
+    "title": "Bản Android, PC toàn màn hình",
+    "body": "Có bản Android: cần điều khiển, cụm nút chiêu, kéo để ngắm, tự nhắm. Bản PC mở toàn màn hình (F11 hoặc Cài Đặt → Đồ họa để thu lại cửa sổ). Đăng nhập được giữ lại giữa các lần mở game."
+  },
+  {
+    "date": "2026-09-08",
+    "tag": "Bản đồ",
+    "title": "Thế giới vẽ lại",
+    "body": "Eldmoor có tường thành đá vôi, Rừng Sồi Đen, Dunmarch, đầm Mistmoor, Hollowfen, Biên Ải, trại cướp Grimwald, Xác Tàu, Đảo Vạc và Mỏ Gravemoss đều mang bảng màu và đồ vật riêng của vùng."
+  },
+  {
+    "date": "2026-09-07",
+    "tag": "Nền tảng",
+    "title": "Zero to Hero trên iPhone",
+    "body": "Bản iOS thử nghiệm: cần điều khiển, cụm nút chiêu, giữ nút rồi kéo để ngắm chiêu, giao diện gọn cho màn hình nhỏ, chat nổi trên bàn phím và rung khi ra đòn."
+  },
+  {
+    "date": "2026-09-06",
+    "tag": "Đồ họa",
+    "title": "Nhân vật rõ nét hơn",
+    "body": "Mọi nhân vật được tô lại: bóng đổ theo chất liệu vải, da, xích, giáp, vảy rồng; viền mềm hơn; gương mặt dễ đọc; tóc và áo choàng thành mảng rõ. Đoàn người và người đánh xe giờ vẽ cùng kiểu với nhân vật."
+  },
+  {
+    "date": "2026-09-05",
+    "tag": "Trang bị",
+    "title": "Vũ khí và giáp tới cấp 60",
+    "body": "32 kiếm, gậy, cung, dao găm mới từ cấp 20 đến 60 và ba bộ giáp Dunmarch, Tro Tàn, Khung Dệt. Thợ Rèn Hald mở lò ở Bến Sậy."
+  },
+  {
+    "date": "2026-09-04",
+    "tag": "Hệ phái",
+    "title": "Bộ đồ riêng cho 12 hệ phái",
+    "body": "Mỗi hệ phái có bộ bốn món: mũ, giày rơi trong hầm Chương 6–7, găng và bùa chế ở Đại Sư. Mặc đủ bộ thay đổi chính cơ chế của hệ phái."
+  },
+  {
+    "date": "2026-09-04",
+    "tag": "Thú",
+    "title": "Thú nuôi và thú cưỡi mới",
+    "body": "Quạ Gò Đá, Cò Con, Kỳ Nhông Tro, Chồn Thư Khố, Ngài Đèn; cưỡi Nai Sừng Đầm, Sơn Dương Dunmarch, Hươu Bạc Voorn và Long Khe Mạch."
+  },
+  {
+    "date": "2026-09-03",
+    "tag": "Chiến đấu",
+    "title": "Giữ hướng khi ra chiêu",
+    "body": "Chiêu lướt và chiêu bắn bay giữ hướng mặt đến khi đòn kết thúc. Vong hồn của Hắc Pháp Sư dựng lên từ cung thủ sẽ đứng xa và bắn tên."
+  },
+  {
+    "date": "2026-09-02",
+    "tag": "Tính năng",
+    "title": "Khóa hầm tuần và chặn người chơi",
+    "body": "Chiến lợi phẩm boss hầm nhận một lần mỗi tuần theo độ khó, reset sáng thứ Hai. Có thể chặn hoặc tắt tiếng người chơi, báo cáo người vi phạm."
+  },
+  {
+    "date": "2026-09-02",
+    "tag": "Máy chủ",
+    "title": "Thị trấn đông hơn",
+    "body": "Máy chủ xử lý song song, một thị trấn giờ chứa khoảng 300 người mà vẫn mượt."
+  },
+  {
+    "date": "2026-09-01",
+    "tag": "Cốt truyện",
+    "title": "Eldmoor theo cái kết",
+    "body": "Quảng trường đổi mặt theo lựa chọn của bạn ở Chương 8: lều trại, giàn giáo, tro tàn hay những ngọn đèn tắt."
+  },
+  {
+    "date": "2026-08-31",
+    "tag": "Chiến đấu",
+    "title": "Âm thanh đòn đánh",
+    "body": "Mỗi vũ khí có tiếng chém riêng, đòn chí mạng vang hơn. Nhạc rừng Blackoak được thay mới."
+  },
+  {
+    "date": "2026-08-27",
+    "tag": "Phiên bản",
+    "title": "Bản 0.2.0",
+    "body": "Giao dịch, kho đồ và thư; bang hội và PvP; chế tạo, cường hóa và nhà đấu giá; cơ chế hệ phái cuối cùng; và hậu quả lâu dài của các sự kiện thế giới."
+  },
+  {
+    "date": "2026-08-25",
+    "tag": "Hệ phái",
+    "title": "Cơ chế hệ phái cuối",
+    "body": "Kỵ Sĩ đánh ngay trên lưng ngựa, bị đòn nặng hay choáng thì ngã ngựa. Thần Xạ kéo căng dây thì phát bắn nhắm tử huyệt. Ám Sư thức tỉnh thì dựng xác quái vừa giết thành vong hồn mang đúng hình dạng nó (xác cung thủ thì bắn tên) chiến đấu cùng. Thú Vương thức tỉnh thì thú nuôi tiến hóa."
+  },
+  {
+    "date": "2026-08-23",
+    "tag": "Tính năng",
+    "title": "Giao dịch, kho đồ và thư",
+    "body": "Trao đổi với người chơi khác, gửi đồ vào kho, gửi thư kèm vàng — tất cả ở người giữ kho trong thành."
+  },
+  {
+    "date": "2026-08-21",
+    "tag": "Tính năng",
+    "title": "Bang hội, PvP, chế tạo và chợ",
+    "body": "Lập bang hội, thách đấu tay đôi, cường hóa trang bị và rao bán ở nhà đấu giá."
+  },
+  {
+    "date": "2026-08-19",
+    "tag": "Sự kiện",
+    "title": "Sự kiện thế giới",
+    "body": "Tám sự kiện lớn diễn ra trên toàn máy chủ, và kết quả của chúng thay đổi thế giới lâu dài."
+  },
+  {
+    "date": "2026-08-17",
+    "tag": "Tính năng",
+    "title": "Thức tỉnh cấp 60, tự cập nhật, âm thanh",
+    "body": "Cấp 60, mỗi hệ phái thức tỉnh: chiêu đặc trưng đổi hẳn hình dạng. Bản PC tự tải bản mới và cài khi khởi động lại. Có nhạc nền và âm thanh môi trường theo từng vùng."
+  },
+  {
+    "date": "2026-08-12",
+    "tag": "Cốt truyện",
+    "title": "Tám chương",
+    "body": "Từ Eldmoor và Rừng Sồi Đen, qua đầm Mistmoor, Dunmarch và đỉnh Ashenspire, Hollowfen, Biên Ải Karsten và Kinh Thành Aldermark, sang Voorn bên kia Vết Cắt, tới Vọng Thiên Cơ. Hơn một trăm nhiệm vụ, nhiều hầm ngục, nhiệm vụ ẩn, và thế giới đổi mặt theo lựa chọn của bạn: đầm lầy ngập nước, Hollowfen cháy, Eldmoor theo cái kết."
+  },
+  {
+    "date": "2026-08-07",
+    "tag": "Hầm ngục",
+    "title": "Tổ đội và hầm ngục",
+    "body": "Lập tổ đội 1–4 người; mỗi tổ đội vào một bản sao hầm ngục của riêng mình. Thoát game trong hầm thì lần sau tỉnh dậy trước cửa hầm."
+  },
+  {
+    "date": "2026-07-31",
+    "tag": "Nhiệm vụ",
+    "title": "Nhiệm vụ trong hội thoại",
+    "body": "Nhận và trả nhiệm vụ ngay trong lời thoại với NPC. Có nhánh lựa chọn, hộ tống người và xe hàng, việc có hạn giờ, boss có thể tha thay vì giết — và lựa chọn đó mở ra chuyện khác về sau. Dẫn đường vẽ lối đi và tự cưỡi ngựa đưa bạn tới nơi, qua nhiều bản đồ."
+  },
+  {
+    "date": "2026-07-24",
+    "tag": "Chiến đấu",
+    "title": "Trạng thái và đòn cân",
+    "body": "Độc, hàn khí, bỏng, nguyền, trói và ấn ký chồng lớp trên quái, có chiêu kích nổ chúng. Quái cũng gây trạng thái lên người chơi. Có vận chiêu, bẫy chờ bị giẫm, đòn càng nặng khi càng mất máu, đòn kết liễu và hút máu. Hồi sinh ở thành gần nhất với thân thể sạch."
+  },
+  {
+    "date": "2026-07-15",
+    "tag": "Hệ phái",
+    "title": "Mười hai hệ phái",
+    "body": "Cấp 30, thề với một Đại Sư ở sân tập Dunmarch để vào hệ phái: Hộ Vệ, Cuồng Chiến, Kỵ Sĩ, Đại Pháp Sư, Băng Nữ, Ám Sư, Thần Xạ, Phong Xạ, Thú Vương, Sát Thủ, Ảnh Vũ Giả, Độc Sư. Mỗi hệ phái có năm chiêu riêng, thanh tài nguyên riêng (Nộ Khí, Thủ Thế, Đà, Hàn Khí…), trạng thái riêng và một vũ khí hệ phái nhận từ Đại Sư."
+  },
+  {
+    "date": "2026-07-06",
+    "tag": "Nhân vật",
+    "title": "Bốn lớp và Tân Thủ",
+    "body": "Mọi nhân vật bắt đầu là Tân Thủ, cầm được mọi vũ khí cấp thấp. Tới cấp 10, nhận nhiệm vụ chuyển nghề: Chiến Binh (kiếm), Pháp Sư (trượng), Cung Thủ (cung) hoặc Thích Khách (dao găm), mỗi lớp năm chiêu mở dần theo cấp. Mỗi cấp được 3 điểm thuộc tính để cộng vào năm chỉ số. Nhân vật dựng bằng khung xương nên cử động mượt, có biểu cảm và động tác chào hỏi."
+  },
+  {
+    "date": "2026-06-29",
+    "tag": "Phiên bản",
+    "title": "Bản 0.1.0",
+    "body": "Bản đầu tiên của Zero to Hero: MMORPG hành động pixel 2.5D ở một miền châu Âu cổ. Từ Tân Thủ vô danh ở Eldmoor, chọn một trong bốn lớp, bái sư vào một trong mười hai hệ phái, và đi hết tám chương truyện tới Vọng Thiên Cơ."
+  }
+]

@@ -2,6 +2,12 @@
   {
     "date": "2026-09-30",
     "tag": "Phiên bản",
+    "title": "Bản 0.3.23: dẫn đường tới tận chỗ ẩn, cân lại EXP đánh quái",
+    "body": "Dẫn đường giờ đưa bạn tới tận chỗ ẩn của nhiệm vụ, không còn dừng ở vùng \"Ấm\". Trước đây, đứng gần một chỗ ẩn (như hai khúc sông quanh cây cầu Rừng Sồi Đen trong nhiệm vụ múc nước cấp 11) thì bấm Dẫn đường nhân vật đứng im mãi, phải tự đi về làng mới làm tiếp được. EXP từ đánh quái giảm còn 60% để lên cấp nhịp nhàng hơn, cùng nhịp với EXP nhiệm vụ. Mầm Rỉ Mạch hồi sinh chậm hơn (45 giây thay vì 9 giây), nên múc nước ở hồ trong nhiệm vụ Cái Nắp không còn bị quấy liên tục."
+  },
+  {
+    "date": "2026-09-30",
+    "tag": "Phiên bản",
     "title": "Bản 0.3.22: dẫn đường thông minh hơn, cộng điểm tiềm năng có xác nhận, sửa tự cập nhật trên PC",
     "body": "Dẫn đường giờ đi mượt hơn, ít rẽ vặt, hết cảnh nhân vật quay trái quay phải hay khựng lại giữa đường. Tới nơi là tự làm tiếp: tới NPC thì mở luôn hội thoại, tới chỗ quái hay địa điểm nhiệm vụ thì tự xuống ngựa và nhắc việc cần làm. Nhiệm vụ tìm chỗ ẩn (như múc nước ở cấp 11) giờ cũng dẫn được tới vùng \"Ấm\". Mở bản đồ (M) và bấm vào một điểm bất kỳ là nhân vật tự cưỡi ngựa tới đó. Điểm tiềm năng: bấm \"+\" là thấy ngay chỉ số tăng bao nhiêu, bấm \"Xác nhận\" mới thật sự cộng. EXP từ nhiệm vụ giảm còn một nửa để lên cấp nhịp nhàng hơn. Đi tổ đội được nhiều EXP hơn (2 người mỗi người 75%, 3 người 60%, càng đông cả đội càng được nhiều), và đánh quái thấp cấp bớt bị trừ EXP (thấp hơn 4 cấp còn 80%, 7 cấp 50%, 10 cấp 20%). Sự kiện Sói Tràn không còn chặn cổng vào Rừng Sồi Đen: bầy sói giờ đứng giữa đường rừng, và lượt sự kiện không ai tham gia thì không tính là thua. Tân Thủ đang cầm một nhiệm vụ chọn lớp thì không nhận thêm được nhiệm vụ chọn lớp khác nữa. Trên điện thoại: bật tắt riêng từng loại mũi tên ngắm và vòng khóa mục tiêu trong Cài Đặt; khung nhiệm vụ không còn đè lên khung chat. Trên PC: sửa lỗi tự cập nhật dừng lại với thông báo \"Failed to uninstall old application files\"; nếu máy bạn từng gặp lỗi này, hãy tải bộ cài 0.3.22 từ trang chủ một lần, từ đó về sau game tự cập nhật bình thường."
   },

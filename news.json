@@ -2,6 +2,12 @@
   {
     "date": "2026-09-30",
     "tag": "Phiên bản",
+    "title": "Bản 0.3.22: dẫn đường thông minh hơn, cộng điểm tiềm năng có xác nhận, sửa tự cập nhật trên PC",
+    "body": "Dẫn đường giờ đi mượt hơn, ít rẽ vặt, hết cảnh nhân vật quay trái quay phải hay khựng lại giữa đường. Tới nơi là tự làm tiếp: tới NPC thì mở luôn hội thoại, tới chỗ quái hay địa điểm nhiệm vụ thì tự xuống ngựa và nhắc việc cần làm. Nhiệm vụ tìm chỗ ẩn (như múc nước ở cấp 11) giờ cũng dẫn được tới vùng \"Ấm\". Mở bản đồ (M) và bấm vào một điểm bất kỳ là nhân vật tự cưỡi ngựa tới đó. Điểm tiềm năng: bấm \"+\" là thấy ngay chỉ số tăng bao nhiêu, bấm \"Xác nhận\" mới thật sự cộng. EXP từ nhiệm vụ giảm còn một nửa để lên cấp nhịp nhàng hơn. Đi tổ đội được nhiều EXP hơn (2 người mỗi người 75%, 3 người 60%, càng đông cả đội càng được nhiều), và đánh quái thấp cấp bớt bị trừ EXP (thấp hơn 4 cấp còn 80%, 7 cấp 50%, 10 cấp 20%). Sự kiện Sói Tràn không còn chặn cổng vào Rừng Sồi Đen: bầy sói giờ đứng giữa đường rừng, và lượt sự kiện không ai tham gia thì không tính là thua. Tân Thủ đang cầm một nhiệm vụ chọn lớp thì không nhận thêm được nhiệm vụ chọn lớp khác nữa. Trên điện thoại: bật tắt riêng từng loại mũi tên ngắm và vòng khóa mục tiêu trong Cài Đặt; khung nhiệm vụ không còn đè lên khung chat. Trên PC: sửa lỗi tự cập nhật dừng lại với thông báo \"Failed to uninstall old application files\"; nếu máy bạn từng gặp lỗi này, hãy tải bộ cài 0.3.22 từ trang chủ một lần, từ đó về sau game tự cập nhật bình thường."
+  },
+  {
+    "date": "2026-09-30",
+    "tag": "Phiên bản",
     "title": "Bản 0.3.21: Tân Thủ đổi chiêu theo vũ khí, mũi tên chỉ hướng đánh",
     "body": "Tân Thủ giờ có bộ ba chiêu riêng cho từng loại vũ khí đang cầm, mở ở cấp 3, 5 và 7: cầm kiếm có Lao Tới, Chém Quét và Lấy Lại Sức; cầm dao găm có Lách Người, Ném Dao và Mắt Tinh; cầm gậy có Tia Năng Lượng, Sóng Đẩy và Tĩnh Tâm; cầm cung có Bắn Đôi, Nhảy Lùi và Nín Thở. Đổi vũ khí là thanh chiêu đổi theo, và mỗi chiêu có biểu tượng cùng hiệu ứng riêng. Trên điện thoại có thêm mũi tên dưới chân chỉ hướng đòn đánh sắp đi, tắt được trong Cài Đặt. Cũng trên điện thoại: đã sửa lỗi không gửi được tin nhắn chat, và menu khi nhấn giữ vào người chơi khác giờ cuộn được."
   },

@@ -2,6 +2,12 @@
   {
     "date": "2026-09-30",
     "tag": "Phiên bản",
+    "title": "Bản 0.3.24: sửa nhiệm vụ Cái Nắp, hầm ngục dọn xong là sạch, sửa đồng hồ khi chơi online",
+    "body": "Bản này bắt buộc cập nhật: bản cũ sẽ được yêu cầu cập nhật khi vào game. Hầm ngục dọn xong là sạch: quái đã chết không hồi sinh nữa cho tới khi cả nhóm ra ngoài; vào lại là một hầm mới đầy đủ quái. Nhiệm vụ Cái Nắp (múc nước rỉ mạch ở hầm mộ Rừng Sồi Đen) giờ làm được: bị đánh trong lúc múc vẫn tính, miễn là không bước ra khỏi vòng quanh hồ. Đang ôm bình dễ vỡ thì không đánh và không dùng chiêu được (hai tay đang ôm bình), bị trúng đòn là bình vỡ; múc lại không bao giờ ra bình thứ hai, và bỏ nhiệm vụ thì bình cũng mất. Lục soát lều chỉ huy trong nhiệm vụ Trại Thanh Tẩy cũng không còn bị ngắt khi bị đánh. Sửa lỗi đồng hồ khi chơi online: thanh lục soát của nhiệm vụ hiện số giây khổng lồ, và giờ trong ngày, thời tiết, đếm ngược làm mới ngày/tuần bị lệch. Thông báo từ chối (hồi chiêu, hết mana…) không còn hiện chồng nhiều lần khi giữ nút."
+  },
+  {
+    "date": "2026-09-30",
+    "tag": "Phiên bản",
     "title": "Bản 0.3.23: dẫn đường tới tận chỗ ẩn, cân lại EXP đánh quái",
     "body": "Dẫn đường giờ đưa bạn tới tận chỗ ẩn của nhiệm vụ, không còn dừng ở vùng \"Ấm\". Trước đây, đứng gần một chỗ ẩn (như hai khúc sông quanh cây cầu Rừng Sồi Đen trong nhiệm vụ múc nước cấp 11) thì bấm Dẫn đường nhân vật đứng im mãi, phải tự đi về làng mới làm tiếp được. EXP từ đánh quái giảm còn 60% để lên cấp nhịp nhàng hơn, cùng nhịp với EXP nhiệm vụ. Mầm Rỉ Mạch hồi sinh chậm hơn (45 giây thay vì 9 giây), nên múc nước ở hồ trong nhiệm vụ Cái Nắp không còn bị quấy liên tục."
   },

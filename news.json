@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-01",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.26: sửa nhiệm vụ Nước Dâng, Sói Mẹ và Lá Thư Đến Muộn",
+    "body": "Nước Dâng và nhiệm vụ hằng ngày Xem Ba Cái Cống: điểm cống bắc và cống đông giờ nằm sát cái cống, Dẫn đường chở tới đúng chỗ, kể cả khi đầm đã ngập. Sói Mẹ: con sói không còn kẹt trên đỉnh đồi, giờ chờ dưới chân đồi và đi hết đường về Trại Thợ Săn. Lá Thư Đến Muộn: nếu thiếu Bản Dập Chín Dấu hay Sổ Trực Ngục Đá, Dẫn đường chở tới chỗ lấy lại trước (Hòm Bản Dập dưới Gò Đá trong Rừng Sồi Đen, Hòm Sổ Trực trong Ngục Đá Dunmarch), rồi mới về Celeste. Vứt một món đồ nhiệm vụ mà sau này còn cần giờ luôn được hỏi lại trước khi vứt."
+  },
+  {
     "date": "2026-09-30",
     "tag": "Phiên bản",
     "title": "Bản 0.3.25: có bản cho macOS, màn hình đăng nhập và bảng điểm tiềm năng gọn hơn",

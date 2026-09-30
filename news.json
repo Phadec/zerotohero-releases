@@ -2,6 +2,12 @@
   {
     "date": "2026-09-30",
     "tag": "Phiên bản",
+    "title": "Bản 0.3.25: có bản cho macOS, màn hình đăng nhập và bảng điểm tiềm năng gọn hơn",
+    "body": "Zero to Hero giờ có bản cho máy Mac (Apple Silicon và Intel), tải ở trang chủ. Lần đầu mở, bấm chuột phải vào ứng dụng rồi chọn Open. Bản Mac chưa tự cập nhật: khi có bản mới, tải lại từ trang chủ. Màn hình đăng nhập không còn hiện số người chơi. Bảng điểm tiềm năng gọn hơn: mỗi thuộc tính chỉ còn tên, số điểm và nút cộng/trừ."
+  },
+  {
+    "date": "2026-09-30",
+    "tag": "Phiên bản",
     "title": "Bản 0.3.24: sửa nhiệm vụ Cái Nắp, hầm ngục dọn xong là sạch, sửa đồng hồ khi chơi online",
     "body": "Bản này bắt buộc cập nhật: bản cũ sẽ được yêu cầu cập nhật khi vào game. Hầm ngục dọn xong là sạch: quái đã chết không hồi sinh nữa cho tới khi cả nhóm ra ngoài; vào lại là một hầm mới đầy đủ quái. Nhiệm vụ Cái Nắp (múc nước rỉ mạch ở hầm mộ Rừng Sồi Đen) giờ làm được: bị đánh trong lúc múc vẫn tính, miễn là không bước ra khỏi vòng quanh hồ. Đang ôm bình dễ vỡ thì không đánh và không dùng chiêu được (hai tay đang ôm bình), bị trúng đòn là bình vỡ; múc lại không bao giờ ra bình thứ hai, và bỏ nhiệm vụ thì bình cũng mất. Lục soát lều chỉ huy trong nhiệm vụ Trại Thanh Tẩy cũng không còn bị ngắt khi bị đánh. Sửa lỗi đồng hồ khi chơi online: thanh lục soát của nhiệm vụ hiện số giây khổng lồ, và giờ trong ngày, thời tiết, đếm ngược làm mới ngày/tuần bị lệch. Thông báo từ chối (hồi chiêu, hết mana…) không còn hiện chồng nhiều lần khi giữ nút."
   },

@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-10-02",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.36: Thuật Sĩ Dịch Chuyển, bùa về thành, đồ ăn, túi 50 ô và bán nhanh",
+    "body": "Thuật Sĩ Dịch Chuyển có người ở Eldmoor, Dunmarch, Aldermark, trại Biên Ải và Voorn: trả lộ phí để đi thẳng tới thành khác (cần đủ cấp của vùng; Voorn chỉ mở sau khi qua Họng Vực). Bùa Về Thành đưa về thành gần nhất, không dùng được trong hầm ngục hay ngay sau giao tranh. Đồ ăn mới (Bánh Mì Lúa Mạch, Trà Thảo Mộc, Súp Thịt Hầm, Rượu Mật Ong, Đùi Nướng) hồi máu và mana từ từ, có thời gian hồi riêng nên vẫn uống thuốc được; mua ở người bán đồ ăn mới tại Eldmoor, Dunmarch, Aldermark, trại Biên Ải và Voorn (Bùa Về Thành mua ở Thuật Sĩ Dịch Chuyển và tiệm tạp hóa). Túi đồ tăng lên 50 ô. Tab Bán có Bán nhanh: chọn độ hiếm rồi bán hết trang bị tới mức đó trong một lần bấm, món hiếm hoặc đã cường hóa được hỏi lại. Cài Đặt có chỉnh độ to bản đồ nhỏ, và trên điện thoại có Chỉnh bố cục nút để kéo từng nút tới chỗ dễ bấm. Khung nhiệm vụ trên màn hình giờ luôn giữ nút thu gọn ở trên khi kéo danh sách. Nhiệm vụ mang đồ (Đèn Không Được Tắt, Cái Nắp…) khi balo đầy không còn gọi lại quái canh và không báo xong khi chưa lấy được đồ. Cuồng Chiến được giảm sức mạnh: công hệ phái, Bổ Sọ, Xử Trảm, Huyết Hống và các chiêu Huyết Ma đều thấp hơn, Huyết Ma tuột Nộ nhanh hơn. Huyết Xung của Cuồng Chiến được thay bằng Huyết Trảm: chém quét rộng cả phía trước, mỗi kẻ trúng đòn chảy máu 6 giây (chồng tối đa 3 vết); điểm đã cộng vào Huyết Xung chuyển sang Huyết Trảm. Thích Khách mạnh hơn: công gốc và máu, mana theo cấp cao hơn, Ảnh Bộ, Phi Đao, Bom Khói và Ám Sát gây thêm sát thương, Ẩn Ảnh thêm công. Sát Thủ giảm nhẹ (Ám Bộ hồi lâu hơn, Sát Ý ít công hơn), Du Hiệp mạnh hơn (Phong Tiễn, Phong Bạo). Trùm không còn rơi trang bị tím và vàng: thay vào đó rơi Công Thức của món đó cùng nguyên liệu riêng của trùm, mang tới lò rèn, xưởng giáp hoặc bàn kim hoàn để chế (chế xong thì Công Thức mất). Quái tinh anh và quái thường hiếm khi rơi đồ tím, vàng hơn trước. Đá cường hóa giờ rơi ở khắp nơi theo cấp quái, không chỉ ở bãi sói đầu game. Vàng giờ đáng giá hơn: giá mua ở cửa hàng, phí cường hóa, phí chế tạo, phí tẩy điểm, phí lập và đổi tên bang, phí gửi thư và thuế ở Chợ đều cao hơn; giá bán đồ cho tiệm giữ nguyên. Tỷ thí giờ gạ được ngay từ menu người chơi, và hai người được đưa vào một đấu trường riêng, đánh xong thì về chỗ cũ. Bang chiến mỗi tối 20:00–21:00: bang chủ hoặc phó bang đăng ký ở Thuật Sĩ Dịch Chuyển, hai bang được ghép vào một đấu trường, mỗi hiệp 5 người mỗi bên tranh ba lá cờ, những người còn lại xem trên khán đài; ai đã ra sân thì nghỉ tới hết trận trừ khi được nhường lượt. Thắng 3 hiệp là thắng trận; bang giỏi nhất tối đó thành Bá Chủ trong 7 ngày, tên bang hiện màu vàng."
+  },
+  {
+    "date": "2026-10-02",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.35: Android hết kẹt thanh trạng thái, đổi tên bang, bán nhiều món một lần",
+    "body": "Trên Android, thanh trạng thái hiện ra sau khi vuốt hoặc quay về từ đa nhiệm giờ tự ẩn lại, không còn che nút nhiệm vụ và menu. Bang chủ đổi được tên bang với 5.000 vàng. Bàn chế tạo chỉ hiện công thức không quá 5 cấp trên nhân vật. Tab Bán có chế độ Chọn nhiều: đánh dấu nhiều món, hỏi một lần rồi bán hết. Tẩy điểm kỹ năng chỉ làm ở Đại Sư của đúng hệ phái đã nhận (chưa nhận phái thì Đại Sư nào của lớp cũng được)."
+  },
+  {
+    "date": "2026-10-02",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.34: tẩy điểm kỹ năng, thú cưỡi nhanh hơn và vẽ lại, pet vẽ lại, đổi mật khẩu",
+    "body": "Đại Sư có thêm Tẩy điểm kỹ năng: trả lại mọi điểm đã cộng để phân bổ lại, phí tăng theo cấp. Nhận hệ phái giờ trả lại điểm của các kỹ năng lớp bị bộ phái thay thế. Trong hộp thoại NPC, Hỏi về nhiệm vụ luôn đứng đầu. Thú cưỡi được vẽ lại từ đầu, phi nước đại bốn nhịp và nhanh hơn hẳn (+60% đến +100%); dùng dây cương là thú mới được chọn ngay, dây cương của con đã có thì giữ lại. Cả 8 pet và dạng tiến hóa được vẽ lại dễ thương hơn, cỡ vừa với nhân vật, đi sau lưng chủ thay vì đứng chắn trước mặt; Ngự Thú Sư đã thức tỉnh thấy dạng tiến hóa ngay trong menu pet. Cài Đặt có Đổi mật khẩu. Con Sói Cuối Đàn và Làng Đầm 3 không còn kẹt khi người cần hỏi đã rời đi. Nhạc trùm nán lại vài giây sau trận."
+  },
+  {
+    "date": "2026-10-02",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.33: sửa lục soát và đồ nhiệm vụ, trùm không lướt xuyên tường, bản Mac tự cập nhật",
+    "body": "Lục soát ở chỗ làm nhiệm vụ: trúng đòn chỉ làm thanh lùi 1 giây thay vì chạy lại từ đầu, và lục xong thì được nhớ, nên Ba Mươi Mốt Cái Cọc, mộ Hollowfen và cửa cống đầm làm được. Cầm cả Nước Dâng lẫn nhiệm vụ cống hằng ngày thì một lần dọn cống tính cho cả hai. Đồ nhiệm vụ chỉ rơi cho người đang cần nó, và giao nhiệm vụ xong thì phần thừa được thu luôn, không nằm mãi trong túi. Cú lướt của trùm không còn xuyên tường ra ngoài bản đồ. Bản Mac giờ được Apple ký và kiểm duyệt, mở không cần chuột phải nữa, và tự cập nhật như bản PC (bản Mac cũ cần tải lại một lần)."
+  },
+  {
+    "date": "2026-10-01",
+    "tag": "Phiên bản",
+    "title": "Bản 0.3.30: nút làm điệu bộ ở chỗ làm nhiệm vụ, sửa Sau Trận Lụt và Thiếu Tá Wrenn",
+    "body": "Nhiệm vụ đòi quỳ, vẫy tay hay cúi chào tại một chỗ (Đường Về, Mối Thứ Chín, Cánh Cổng, Ba Mươi Mốt Cái Cọc) giờ hiện ngay nút làm điệu bộ đó khi tới lượt, không còn phải tự gõ /quy. Sau Trận Lụt làm được cả khi đầm đã ngập: đoàn người Bến Sậy vẫn chờ ở đó. Thiếu Tá Wrenn và các trùm đầu hàng khác không còn đứng mãi ở 1 máu: trả lời được từ xa, và nếu không ai trả lời thì trùm tự rời đi rồi xuất hiện lại. Bảng kỹ năng ghi đúng cấp chiêu của chiêu không gây sát thương: chỉ giảm thời gian hồi."
+  },
+  {
     "date": "2026-10-01",
     "tag": "Phiên bản",
     "title": "Bản 0.3.26: sửa nhiệm vụ Nước Dâng, Sói Mẹ và Lá Thư Đến Muộn",

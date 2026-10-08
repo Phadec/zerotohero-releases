@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-08",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.10: Chia khu, giao diện mới",
+    "body": "Chia khu: mỗi bản đồ tối đa 40 người một khu, đông thì tự mở khu mới, đổi khu bằng tay dưới tên bản đồ; sự kiện và boss thế giới diễn ra ở Khu 1, sắp tới giờ thì mọi người được dồn về đó. Giao diện mới: thanh máu và bản đồ nhỏ không khung, chân dung tròn, cửa sổ trong suốt nhẹ; bản đồ nhỏ có thể chuyển sang hình tròn hoặc tắt hẳn trong Cài Đặt. Chọn số lượng khi gửi thư, giao dịch và cất kho; chỉnh được độ nhạy vuốt kỹ năng; thêm công tắc Ánh sáng chiến đấu trong Cài Đặt → Đồ họa. Tinh luyện giữ nguyên phẩm, chỉ bốc lại dòng phụ. Thẻ món đồ hiện đúng chỉ số chính. Cuộn công thức trong túi luôn hiện ở bàn chế và ghi rõ chỗ chế. Mô tả kỹ năng viết lại cho đúng với cách chiêu thật sự hoạt động. Hollowfen sau trận cháy hiện đúng cho mọi người. Kèm vài sửa lỗi nhỏ.",
+    "discord": "Bản **0.5.10** đã lên rồi nha 👇\n\n**Chia khu**\nMỗi bản đồ giờ tối đa 40 người một khu, đông quá thì tự mở khu mới. Muốn qua khu khác thì bấm dưới tên bản đồ (không đổi được khi đang đánh). Sự kiện và boss thế giới diễn ra ở Khu 1, sắp tới giờ thì mọi người được dồn về đó.\n\n**Giao diện mới**\n- Thanh máu và bản đồ nhỏ bỏ khung, chân dung tròn\n- Cửa sổ trong suốt nhẹ, thấy được thế giới phía sau\n- Bản đồ nhỏ chuyển sang hình tròn hoặc tắt hẳn trong Cài Đặt\n\n**Tiện hơn**\n- Chọn số lượng khi gửi thư, giao dịch và cất kho\n- Chỉnh được độ nhạy vuốt kỹ năng trên điện thoại\n- Công tắc Ánh sáng chiến đấu trong Cài Đặt → Đồ họa\n- Cuộn công thức trong túi luôn hiện ở bàn chế, thẻ cuộn ghi rõ chế ở đâu\n\n**Sửa cho đúng**\n- Tinh luyện giữ nguyên phẩm, chỉ bốc lại dòng phụ\n- Thẻ món đồ hiện đúng chỉ số chính (đồ tím, đồ vàng trước hiện thiếu)\n- Mô tả kỹ năng viết lại cho đúng với cách chiêu thật sự hoạt động\n- Hollowfen sau trận cháy hiện đúng cho mọi người\n- Kèm vài sửa lỗi nhỏ\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
+  },
+  {
+    "date": "2026-10-07",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.9: Vé Đổi Hệ Phái, ánh sáng mới",
+    "body": "Vé Chuyển Nghề thành Vé Đổi Hệ Phái: lớp chỉ chọn một lần, vé đổi sang hệ phái khác cùng lớp, giữ cấp, điểm thuộc tính và túi đồ; điểm kỹ năng của bộ cũ trả lại để cộng vào bộ mới. Cuồng Chiến: Huyết Xung lướt trở lại, cả bộ kỹ năng mạnh thêm khoảng 20%. Boss thế giới có thêm lượt sau giờ làm (17:15–18:45). Ánh sáng ban đêm làm lại, quái hình người chạy và vung đòn như nhân vật, hòm nhiệm vụ có hình riêng, Sân Tập Eldmoor trang trí lại. Món mới Bánh Lãnh Chúa cấp 55 ở đầu bếp Voorn. Bộ trang bị nhớ cả điểm tiềm năng cộng thêm, vào trận mượt hơn, thanh âm lượng nhạc trên iPhone có tác dụng. Kèm vài sửa lỗi nhỏ.",
+    "discord": "Bản **0.5.9** đã lên rồi nha 👇\n\n**Vé Đổi Hệ Phái**\nVé Chuyển Nghề giờ là Vé Đổi Hệ Phái: lớp chỉ chọn một lần, vé cho đổi sang hệ phái khác cùng lớp, giữ cấp, điểm thuộc tính và túi đồ. Điểm kỹ năng của bộ cũ được trả lại để cộng vào bộ mới.\n\n**Cuồng Chiến mạnh lên**\nHuyết Xung lướt trở lại, cả bộ kỹ năng mạnh thêm khoảng 20%.\n\n**Thêm giờ boss thế giới**\nCó thêm lượt sau giờ làm, khoảng 17:15 đến 18:45.\n\n**Thế giới sống động hơn**\n- Ánh sáng ban đêm làm lại, phép và tuyệt kỹ sáng rực trong bóng tối\n- Quái hình người chạy, lấy đà và vung đòn như nhân vật\n- Hòm nhiệm vụ có hình riêng theo vùng\n- Sân Tập Eldmoor trang trí lại\n\n**Khác**\n- Món mới: Bánh Lãnh Chúa cấp 55 ở đầu bếp Voorn\n- Bộ trang bị nhớ cả điểm tiềm năng cộng thêm\n- Vào trận mượt hơn\n- Thanh âm lượng nhạc trên iPhone có tác dụng\n- Kèm vài sửa lỗi nhỏ\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
+  },
+  {
     "date": "2026-10-07",
     "tag": "Phiên bản",
     "title": "Bản 0.5.8: bãi quái mới gọn lại",

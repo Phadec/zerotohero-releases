@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-09",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.11: Mũ có lại giáp, mời bang khi offline, sổ nhiệm vụ",
+    "body": "Mời vào bang được cả người đang offline: lời mời chờ tới khi họ đăng nhập; bang chủ và phó bang có nút Mời vào bang ngay trong menu người chơi. Sổ nhiệm vụ có thêm mục Chưa đủ cấp, cho biết nhiệm vụ nào sắp mở trong 10 cấp tới. Nhận nhiệm vụ xong hộp thoại tự đóng; trên điện thoại chạm chỗ nào cũng sang câu thoại tiếp. Thêm công tắc Ánh sáng môi trường trong Cài Đặt → Đồ họa, tắt thì đêm và hầm luôn sáng. Boss đầu hàng chỉ hỏi người còn chưa chọn kết; ai đã chọn rồi thì đánh hạ là rơi đồ như boss thường. Phòng của Vesna ở tầng ba không còn trống với tổ đã làm Sổ Dân. Boss thế giới không thưởng kinh nghiệm nữa, chỉ vàng và đồ. Mũ có lại giáp và kháng phép như trước, đổi lại một phần máu nên mũ không mạnh hay yếu đi. Bài hát của Thánh Ca hồi người hát một nửa, đồng đội vẫn nhận đủ. Sửa: đoàn hộ tống Ngày Thứ Bảy kẹt sau cái lều, khóa tuần đã mở bằng Chìa Hầm quay lại sau khi đăng nhập lại, giờ hầm ở Vọng Thiên Cơ, thông báo kinh nghiệm sự kiện ghi đúng số nhận được, và vài lỗi nhỏ.",
+    "discord": "Bản **0.5.11** đã lên rồi nha 👇\n\n**Bang hội**\nMời vào bang được cả người đang offline, lời mời chờ tới khi họ đăng nhập. Bang chủ và phó bang có nút **Mời vào bang** ngay trong menu người chơi (bấm tên trong danh sách bạn bè, trong chat hoặc giữ trên người).\n\n**Tiện hơn**\n- Sổ nhiệm vụ có mục **Chưa đủ cấp**: nhiệm vụ sắp mở trong 10 cấp tới\n- Nhận nhiệm vụ xong hộp thoại tự đóng\n- Trên điện thoại chạm chỗ nào cũng sang câu thoại tiếp\n- Công tắc **Ánh sáng môi trường** trong Cài Đặt → Đồ họa: tắt thì đêm và hầm luôn sáng\n\n**Boss**\n- Boss đầu hàng chỉ hỏi người còn chưa chọn kết; ai chọn rồi thì đánh hạ là rơi đồ như boss thường\n- Phòng của Vesna ở tầng ba không còn trống với tổ đã làm Sổ Dân 👀\n- Boss thế giới không thưởng kinh nghiệm nữa, chỉ vàng và đồ\n\n**Cân bằng**\n- Mũ có lại giáp và kháng phép như trước, đổi lại một phần máu nên tổng sức mạnh của mũ không đổi\n- Bài hát của Thánh Ca hồi người hát một nửa, đồng đội vẫn nhận đủ\n\n**Sửa lỗi**\n- Đoàn hộ tống Ngày Thứ Bảy kẹt sau cái lều\n- Khóa tuần đã mở bằng Chìa Hầm quay lại sau khi đăng nhập lại\n- Giờ hầm ở Vọng Thiên Cơ không còn hết giờ oan\n- Thông báo kinh nghiệm sự kiện ghi đúng số nhận được\n- Kèm vài lỗi nhỏ\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
+  },
+  {
     "date": "2026-10-08",
     "tag": "Phiên bản",
     "title": "Bản 0.5.10: Chia khu, giao diện mới",

@@ -2,9 +2,9 @@
   {
     "date": "2026-10-09",
     "tag": "Phiên bản",
-    "title": "Bản 0.5.16: Mimic thú nhặt đồ, ưu đãi xuống cột bên trái",
-    "body": "Mimic: cái rương biết nhảy theo chủ, tự nhặt vàng và đồ chủ được nhặt trong 112 px quanh chủ (đồ bay vào miệng nó rồi vào túi, chủ thôi tự nhặt khi nó ra); có máu riêng 40% máu chủ, đòn quái trúng thì mất máu, gục thì nghỉ 30 s rồi tự ra lại; nhớ qua đổi map, chết và đăng nhập; phím 7, ô trên thanh kỹ năng, thẻ riêng trong bảng Thú cưng. Chìa Khóa Rương Mimic rơi cực hiếm trong Vòng Quay Vận May (0,01%). Giao diện: thẻ Ưu đãi Đặc Biệt xuống cột điểm danh bên trái để không che chat.",
-    "discord": "Bản **0.5.16** đã lên rồi nha 👇\n\n**🎁 Mimic — Thú chức năng nhặt đồ**\n- Cái rương biết nhảy theo chủ, **tự nhặt vàng và đồ** chủ được nhặt trong 112 px quanh chủ\n- Đồ bay vào miệng nó rồi vào túi; chủ **thôi tự nhặt** khi nó ra\n- Có **máu riêng 40%** máu chủ, đòn quái trúng thì mất máu, **gục thì nghỉ 30 s** rồi tự ra lại\n- Nhớ qua đổi map, chết và đăng nhập\n- Gọi ra bằng **phím 7**, ô trên thanh kỹ năng, hoặc thẻ riêng trong bảng **Thú cưng**\n- **Chìa Khóa Rương Mimic** rơi cực hiếm trong **Vòng Quay Vận May** (0,01%)\n\n**🎨 Giao diện**\n- Thẻ **Ưu đãi Đặc Biệt** xuống cột điểm danh bên trái để không che chat\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
+    "title": "Bản 0.5.16: Mimic thú nhặt đồ, ưu đãi vào menu",
+    "body": "Mimic: cái rương biết nhảy theo chủ, tự nhặt vàng và đồ chủ được nhặt trong 112 px quanh chủ (đồ bay vào miệng nó rồi vào túi, chủ thôi tự nhặt khi nó ra); có máu riêng 40% máu chủ, đòn quái trúng thì mất máu, gục thì nghỉ 30 s rồi tự ra lại; nhớ qua đổi map, chết và đăng nhập; phím 7, ô trên thanh kỹ năng, thẻ riêng trong bảng Thú cưng. Chìa Khóa Rương Mimic rơi cực hiếm trong Vòng Quay Vận May (0,01%). Trên điện thoại, Ưu đãi chuyển vào menu ☰ để không che chat.",
+    "discord": "Bản **0.5.16** đã lên rồi nha 👇\n\n**🎁 Mimic — Thú chức năng nhặt đồ**\n- Cái rương biết nhảy theo chủ, **tự nhặt vàng và đồ** chủ được nhặt trong 112 px quanh chủ\n- Đồ bay vào miệng nó rồi vào túi; chủ **thôi tự nhặt** khi nó ra\n- Có **máu riêng 40%** máu chủ, đòn quái trúng thì mất máu, **gục thì nghỉ 30 s** rồi tự ra lại\n- Nhớ qua đổi map, chết và đăng nhập\n- Gọi ra bằng **phím 7**, ô trên thanh kỹ năng, hoặc thẻ riêng trong bảng **Thú cưng**\n- **Chìa Khóa Rương Mimic** rơi cực hiếm trong **Vòng Quay Vận May** (0,01%)\n\n**🎨 Giao diện**\n- Trên điện thoại, **Ưu đãi** chuyển vào menu ☰ để không che chat\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
   },
   {
     "date": "2026-10-09",

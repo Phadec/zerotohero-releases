@@ -2,6 +2,13 @@
   {
     "date": "2026-10-11",
     "tag": "Phiên bản",
+    "title": "Bản 0.5.20: pet và thú cưỡi đẹp hơn, bản đồ ×1.5",
+    "body": "Pet và thú cưỡi được vẽ lại nét gọn và mắt rõ hơn. Cài Đặt → Đồ họa → Kích thước bản đồ có thêm mức ×1.5 trên mọi màn hình. Sửa lỗi \"Không thể vẽ bản đồ\" trên Android mà bấm Thử lại không ăn thua, lỗi các dòng bị lặp và cộng dồn khi chọn món ở Tinh luyện, và khung tổ đội nay cập nhật máu, cấp và bản đồ của đồng đội. Đấu Trường Đội ghi rõ đang tìm trận mấy người và bao lâu nữa mở trận 3 đấu 3 hay 2 đấu 2.",
+    "discord": "Bản **0.5.20** lên rồi nha 👇\n\n**🎨 Đẹp hơn**\n- **Pet và thú cưỡi** được vẽ lại: nét gọn hơn, mắt rõ hơn, tô bóng mềm hơn\n- Cài Đặt → Đồ họa → **Kích thước bản đồ** có thêm mức **×1.5** (giữa ×1 và ×2) trên mọi màn hình\n\n**🛠️ Sửa lỗi**\n- Android: lỗi **\"Không thể vẽ bản đồ\"** mà bấm Thử lại không ăn thua — giờ game tự đợi rồi dựng lại, còn hỏng thì có nút khởi động lại game\n- **Tinh luyện**: các dòng không còn bị lặp và cộng dồn khi chọn món khác\n- **Khung tổ đội** cập nhật máu, cấp và bản đồ của đồng đội (trước đây đứng yên từ lúc vào đội)\n\n**⚔️ Đấu Trường Đội**\n- Lúc chờ ghi rõ đang tìm trận mấy người: 4 đấu 4 trước, **3 đấu 3 sau 45 giây**, **2 đấu 2 sau 1 phút 30**\n\nCảm ơn mọi người đã báo lỗi ở #báo-lỗi nha ❤️"
+  },
+  {
+    "date": "2026-10-11",
+    "tag": "Phiên bản",
     "title": "Bản 0.5.19: hết đen màn hình ở chỗ đông quái",
     "body": "Sửa lỗi đen màn hình rồi văng game trên điện thoại, và đứng hình vài giây trên máy tính, khi đứng ở chỗ đông quái như Biên Ải Karsten. Đồng hồ trong game không còn lệch trên một số máy: thời gian món ăn, giờ trong ngày, thời tiết, lịch boss thế giới và đếm ngược reset hiện đúng. Trên điện thoại, khung chọn thuốc và đồ ăn hiển thị gọn gàng và không đóng khi chạm cần điều khiển, còn danh sách hàng ở Chợ có thêm chỗ.",
     "discord": "Bản **0.5.19** lên rồi nha 👇\n\n**🛠️ Sửa lỗi**\n- Hết **đen màn hình rồi văng game** trên điện thoại (và đứng hình vài giây trên máy tính) khi đứng ở chỗ đông quái như **Biên Ải Karsten**\n- Đồng hồ trong game không còn lệch trên một số máy: thời gian món ăn, giờ trong ngày, thời tiết, lịch boss thế giới và đếm ngược reset hiện đúng\n\n**📱 Điện thoại**\n- Khung chọn thuốc và đồ ăn hiển thị gọn gàng, chạm cần điều khiển không làm nó đóng nữa\n- Danh sách hàng ở **Chợ** có thêm chỗ, dải loại hàng vuốt ngang\n\nCảm ơn mọi người đã báo lỗi ở #báo-lỗi nha ❤️"

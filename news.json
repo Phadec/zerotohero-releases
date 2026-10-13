@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-14",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.27: Cây Mẹ rơi công thức Huyền Thoại cho cả 15 hệ phái, bán nhanh gọn hơn",
+    "body": "Cây Mẹ (boss thế giới ở Voorn) nay rơi công thức Huyền Thoại cấp 60 cho cả 15 hệ phái, không chỉ Đạo Tặc và Du Ca như trước. Tổng tỉ lệ rơi giữ nguyên, và cuộn rơi ra thường là của chính lớp người nhặt. Hộp xác nhận Bán nhanh gộp tên đồ theo món kèm số lượng, danh sách dài thì cuộn được nên nút Bán luôn hiện.",
+    "discord": "Bản **0.5.27** lên rồi nha 👇\n\n**🌳 Cây Mẹ**\n- Cây Mẹ giờ rơi **công thức Huyền Thoại cấp 60 cho cả 15 hệ phái**, trước đây chỉ có Đạo Tặc và Du Ca\n- Tổng tỉ lệ rơi giữ nguyên, cuộn rơi ra **thường là của đúng lớp mình**\n\n**💰 Bán nhanh**\n- Hộp xác nhận gộp tên đồ theo món kèm số lượng, gọn hơn\n- Danh sách dài thì cuộn được, nút **Bán** luôn hiện\n\nCảm ơn mọi người đã góp ý ở #góp-ý nha ❤️"
+  },
+  {
     "date": "2026-10-13",
     "tag": "Phiên bản",
     "title": "Bản 0.5.26: sửa khung chat trên điện thoại tự đóng khi chọn kênh",

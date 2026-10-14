@@ -2,6 +2,13 @@
   {
     "date": "2026-10-14",
     "tag": "Phiên bản",
+    "title": "Bản 0.5.29: bảng Boss tuần này có dẫn đường tới cửa hầm, sửa chiêu tung hai lần khi mạng chậm",
+    "body": "Nhật ký nhiệm vụ có thêm tab Boss tuần này: mỗi boss hầm ngục còn rơi đồ cho bạn trên độ khó nào trong tuần, khi nào đặt lại và đã dùng mấy Chìa Hầm, và nút Dẫn đường cưỡi thẳng tới cửa từng hầm. Cửa hầm cũng cho xem boss nào còn rơi đồ. Khi mạng chậm, chiêu không còn bị tung hai lần rồi mới báo đang hồi. Mỗi khu giờ tối đa 10 người, còn thị trấn luôn chung một khu. Các cửa sổ mở ra ở giữa màn hình, thanh tiêu đề đứng yên khi cuộn.",
+    "discord": "Bản **0.5.29** lên rồi nha 👇\n\n**🗡️ Boss tuần này**\n- Nhật ký nhiệm vụ (J) có thêm tab **Boss tuần này**: mỗi boss hầm còn rơi đồ cho bạn ở độ khó nào, bao giờ đặt lại, đã dùng mấy **Chìa Hầm**\n- Có nút **Dẫn đường** cưỡi thẳng tới cửa từng hầm\n- Đứng ở cửa hầm cũng xem được boss nào tuần này còn rơi đồ\n\n**⚡ Chiêu thức**\n- Mạng chậm không còn làm chiêu tung **hai lần** rồi mới báo đang hồi\n\n**🗺️ Khu**\n- Mỗi khu tối đa **10 người** cho đỡ chật, còn thị trấn luôn chung **một khu** để gặp nhau dễ hơn\n\n**🪟 Giao diện**\n- Cửa sổ mở ra ở giữa màn hình, thanh tiêu đề đứng yên khi cuộn nội dung\n\nCảm ơn mọi người đã góp ý ở #góp-ý nha ❤️"
+  },
+  {
+    "date": "2026-10-14",
+    "tag": "Phiên bản",
     "title": "Bản 0.5.27: Cây Mẹ rơi công thức Huyền Thoại cho cả 15 hệ phái, bán nhanh gọn hơn",
     "body": "Cây Mẹ (boss thế giới ở Voorn) nay rơi công thức Huyền Thoại cấp 60 cho cả 15 hệ phái, không chỉ Đạo Tặc và Du Ca như trước. Tổng tỉ lệ rơi giữ nguyên, và cuộn rơi ra thường là của chính lớp người nhặt. Hộp xác nhận Bán nhanh gộp tên đồ theo món kèm số lượng, danh sách dài thì cuộn được nên nút Bán luôn hiện.",
     "discord": "Bản **0.5.27** lên rồi nha 👇\n\n**🌳 Cây Mẹ**\n- Cây Mẹ giờ rơi **công thức Huyền Thoại cấp 60 cho cả 15 hệ phái**, trước đây chỉ có Đạo Tặc và Du Ca\n- Tổng tỉ lệ rơi giữ nguyên, cuộn rơi ra **thường là của đúng lớp mình**\n\n**💰 Bán nhanh**\n- Hộp xác nhận gộp tên đồ theo món kèm số lượng, gọn hơn\n- Danh sách dài thì cuộn được, nút **Bán** luôn hiện\n\nCảm ơn mọi người đã góp ý ở #góp-ý nha ❤️"

@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-16",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.31: Song Nanh cho Đạo Tặc, đánh luân phiên hai tay, thú cưỡi vẽ lại",
+    "body": "Đạo Tặc có thêm Song Nanh Dunmarch, cặp dao găm cấp 30 cầm mỗi tay một chiếc và đâm luân phiên, bán ở thợ giáp Dunmarch. Huyết Ma và các dạng Hợp Thể cầm vuốt cũng cào luân phiên hai tay. Cả 9 thú cưỡi được vẽ lại, nhân vật lộ rõ cả hai tay, cưỡi ngựa thì cầm vũ khí bằng tay phụ. Cài Đặt → Đồ họa có thêm Pixel chuẩn cho hình sắc nét hơn. Pháp Sư và Du Ca hồi mana chậm lại. Vật phẩm nhiệm vụ không bán được nữa, món cốt truyện còn cần thì không bỏ được. Khảm ngọc có nút Ghép tất cả.",
+    "discord": "Bản **0.5.31** lên rồi nha 👇\n\n**🗡️ Đạo Tặc**\n- **Song Nanh Dunmarch**: cặp dao găm tím cấp 30, mỗi tay một chiếc, đâm **luân phiên hai tay**. Mua ở thợ giáp Dunmarch\n\n**✋ Hai tay**\n- Nhân vật lộ rõ cả hai tay, chạy không còn hất tay ra sau\n- Huyết Ma và các dạng Hợp Thể cầm vuốt cào **luân phiên hai tay**\n- Cưỡi ngựa thì cầm vũ khí bằng tay phụ; Kỵ Sĩ đâm lên đâm xuống gọn tay hơn\n- Du Ca thổi kèn không còn bị đầu tách khỏi thân\n\n**🐎 Thú cưỡi và pet**\n- Cả **9 thú cưỡi** được vẽ lại, vẫn dễ thương mà ra dáng con vật\n- Pet 4 chân chạy tự nhiên hơn; Sói Con đứng lâu sẽ ngồi rồi cuộn tròn ngủ\n\n**🖼️ Đồ họa**\n- Cài Đặt → Đồ họa có thêm **Pixel chuẩn** (mặc định bật): vũ khí xoay và nhân vật nằm đúng lưới pixel, hình sắc hơn\n- Cung không còn lật ngang khi bắn lên hoặc xuống, kéo cung mượt hơn\n\n**⚖️ Cân bằng**\n- Pháp Sư và Du Ca **hồi mana chậm lại**\n\n**🎒 Túi đồ và khảm ngọc**\n- Vật phẩm nhiệm vụ không bán được nữa; món cốt truyện còn cần thì không bỏ được\n- Khảm ngọc có nút **Ghép tất cả**\n\n**🗺️ Bản đồ**\n- Hollowfen: bụi thạch nam quanh đá chặn đường như đá; cầu thang xuống Karath Vel đi phía sau được\n\nCảm ơn mọi người đã báo lỗi ở #báo-lỗi nha ❤️"
+  },
+  {
     "date": "2026-10-14",
     "tag": "Phiên bản",
     "title": "Bản 0.5.30: bản đồ không còn bị cắt hai bên, ô số lượng ở Chợ gõ được bình thường",

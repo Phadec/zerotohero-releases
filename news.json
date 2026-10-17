@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-18",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.33: lớp thứ sáu Quyền Sư",
+    "body": "Lớp mới Quyền Sư đấm bằng găng hai tay, nhanh và dính đòn, có chỉ số riêng Liên Kích (đấm thêm một cú nửa sức). Tân Thủ đổi lớp ở level 10 với Lão Tomasz ở Eldmoor. Ba hệ phái Thiết Quyền, Kim Thân và Phong Cước nhận ở Đại Sư Varga (Dunmarch), mỗi hệ có găng, đồ, bộ Huyền Thoại và thức tỉnh riêng. Vũ khí Pháp Sư giảm 10% sức đánh. Cửa sổ không còn nhảy khi mở. Theo sau đội trưởng không còn đứng im. Đang gồng cung thì không lên ngựa được (trừ Kỵ Sĩ).",
+    "discord": "Bản **0.5.33** lên rồi nha 👇\n\n**🥊 Lớp thứ sáu: Quyền Sư**\n- Đấm bằng **găng hai tay**: áp sát, đánh nhanh, nối đòn liên tục\n- Chỉ số riêng **Liên Kích**: mỗi cú đấm có cơ hội đấm thêm một cú nửa sức\n- Tân Thủ đổi lớp ở **level 10** với **Lão Tomasz** ở Eldmoor\n- Bộ chiêu: Xung Quyền, Chưởng Chấn, Toàn Phong Cước, Bách Quyền, Tập Trung\n- Ba hệ phái nhận ở **Đại Sư Varga** (Dunmarch): **Thiết Quyền** (chuỗi đòn), **Kim Thân** (khí, bất hoại), **Phong Cước** (đà, cước gió), mỗi hệ có găng, đồ, bộ Huyền Thoại và thức tỉnh riêng\n- Găng 14 bậc từ level 1 tới 60, giáp và trang sức riêng cho Quyền Sư\n\n**⚖️ Cân bằng**\n- **Pháp Sư**: vũ khí giảm **10%** sức đánh (cả gậy thường lẫn vũ khí hệ phái)\n\n**🛠️ Sửa lỗi**\n- Cửa sổ không còn nhảy khi mở hay khi có dòng mới hiện ra\n- **Theo sau đội trưởng** không còn đứng im, và báo lý do khi không theo được\n- Đang gồng cung thì không lên ngựa được (trừ **Kỵ Sĩ**), gồng trên ngựa thì xuống ngựa\n- Gồng cung vừa đi vừa rê chuột không còn bị xé hình\n\nCảm ơn mọi người đã báo lỗi và góp ý nha ❤️"
+  },
+  {
     "date": "2026-10-17",
     "tag": "Phiên bản",
     "title": "Bản 0.5.32: cân bằng hệ phái, Pháp Sư bớt tốn mana, Kỵ Sĩ vững yên hơn, tiếng ra chiêu riêng",

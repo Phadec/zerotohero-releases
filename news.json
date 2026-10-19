@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-19",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.35: so sánh đồ trong túi, áo choàng bay",
+    "body": "Túi đồ so sánh món đang chọn với đồ đang mặc (chỉ số tăng xanh, giảm đỏ, lực chiến ước lượng), có mũi tên cho món mạnh hơn, đánh dấu món không mặc được, tab lọc và ô tìm theo tên. Áo choàng bay theo gió, giáp Chiến Binh mỗi bậc một kiểu. Boss hầm cấp 15 trở lên trâu hơn, mỗi boss thêm 2 phút giờ hầm. Du Hiệp giảm tốc đánh và mũi tên phụ; Ma Âm, Cuồng Chiến, Kỵ Sĩ, Sát Thủ mạnh hơn. Lực chiến tính lại cho các lớp ngang nhau và không còn tụt khi đồ mòn hết độ bền. Ô cần giữ trong cơ chế boss dễ thấy hơn. Tân Thủ mới có găng cấp 1. Chiêu bấm ngay sau một chiêu lướt đi theo hướng chuột. Game mượt hơn khi đông người và xả chiêu.",
+    "discord": "Bản **0.5.35** lên rồi nha 👇\n\n**🎒 Túi đồ**\n- Chọn một món là thấy ngay so với đồ đang mặc: chỉ số tăng màu xanh, giảm màu đỏ, kèm lực chiến ước lượng\n- Món mạnh hơn đồ đang mặc có **mũi tên xanh**, món không mặc được (sai lớp, sai hệ phái, chưa đủ cấp) bị tô đỏ\n- Thêm tab lọc **Trang bị / Tiêu hao / Nguyên liệu / Nhiệm vụ** và ô tìm theo tên, gõ không dấu cũng được\n\n**🧥 Ngoại hình**\n- Áo choàng giờ **bay phấp phới** theo bước chạy, cưỡi thú hay lộn nhào\n- Giáp **Chiến Binh** mỗi bậc một kiểu riêng: giáp vai, cổ giáp, giáp tay, giáp đùi\n- Găng **Quyền Sư** lúc không đấm không còn chĩa thẳng lên trời; Tân Thủ mới có sẵn găng cấp 1\n\n**⚔️ Boss và cân bằng**\n- Boss hầm từ cấp 15 **trâu hơn** (cấp càng cao càng trâu), bù lại mỗi boss thêm **2 phút** giờ hầm\n- Ô cần đứng giữ trong cơ chế boss Khó/Ác Mộng giờ màu vàng, nháy, dễ thấy hơn nhiều\n- **Du Hiệp**: cung Huyền Thoại và bộ đồ giảm tốc đánh, mũi tên phụ còn 55%\n- **Ma Âm** mạnh hơn rõ; **Cuồng Chiến**, **Kỵ Sĩ**, **Sát Thủ** được cộng sát thương\n- **Lực chiến** tính lại để cùng một bộ đồ thì các lớp ngang nhau, và không còn tụt khi đồ mòn hết độ bền\n\n**🛠️ Sửa lỗi**\n- Game mượt hơn khi đông người và khi cả nhóm xả chiêu\n- Chiêu bấm ngay sau một chiêu lướt (như **Ảnh Tập** rồi **Ấn Tử** của Sát Thủ) giờ đi theo hướng chuột, không bị kéo theo hướng chiêu trước\n- Hướng dẫn tân thủ trên điện thoại không còn nhảy góc lúc vừa vào\n- Tùy chọn Pixel chuẩn tắt sẵn; bật lên thì vũ khí không còn bị xé hình\n\nCảm ơn mọi người đã báo lỗi và góp ý nha ❤️"
+  },
+  {
     "date": "2026-10-18",
     "tag": "Phiên bản",
     "title": "Bản 0.5.33: lớp thứ sáu Quyền Sư",

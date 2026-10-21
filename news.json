@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-21",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.39: Thung Lũng Bang và Công Thành",
+    "body": "Bang hội có thêm nhiều việc để làm cùng nhau. Săn Boss Bang: mỗi tuần bang chủ hoặc phó bang gọi một boss thế giới vào đấu trường riêng của bang ở Thuật Sĩ Dịch Chuyển. Nhiệm vụ bang mỗi ngày trả cống hiến, vàng và quỹ bang. Thung Lũng Bang là làng riêng của mỗi bang với bảy công trình nâng bằng quỹ và nguyên liệu thành viên góp, Cây Bang, Thủ Thung Lũng, vào được trong nhà, thuê nhà riêng, Thợ Rèn Bang giảm giá cường hóa và sửa đồ. Công Thành Thung Lũng tối Thứ Ba, Thứ Năm, Thứ Bảy lúc 20:30: các bang được ghép theo sức mạnh và đánh thẳng vào nhà của nhau, có cổng, lửa, giếng, xe phá thành, phục thù và mùa công thành. Bảng Xếp Hạng có tab Thưởng tuần ghi rõ ai được tính và nhận gì. Thiết Quyền mạnh hơn khi đánh boss. Lực chiến không còn nhảy lên xuống theo thanh hệ phái.",
+    "discord": "Bản **0.5.39** lên rồi nha 👇\n\n**🏰 Thung Lũng Bang**\n- Mỗi bang có làng riêng, vào từ Thuật Sĩ Dịch Chuyển\n- 7 công trình (Nhà Chính, Sân Tập, Kho Bạc, Lò Rèn, Đài Triệu Hồi, Chuồng Ngựa, Quán Rượu): khởi công bằng quỹ, thành viên mang nguyên liệu cho Đốc Công Hallam để xây xong\n- Vào được trong nhà; Thợ Rèn Bang Hadrik giảm tới 30% tiền cường hóa và sửa đồ, Chuồng Ngựa giảm phí dịch chuyển, Quán Rượu bán đồ ăn bằng cống hiến\n- Cây Bang tưới mỗi ngày, ra trái mỗi tuần; Thủ Thung Lũng: 5 đợt cướp trong 7 phút\n- Thuê nhà riêng một tuần: kho đồ, hộp thư, bàn rèn, giường thêm Tinh Lực\n\n**⚔️ Công Thành Thung Lũng** (Thứ Ba, Thứ Năm, Thứ Bảy 20:30)\n- Đăng ký ở Thuật Sĩ Dịch Chuyển, ghép theo sức mạnh, hai bang công làng của nhau cùng lúc\n- Đánh thẳng vào nhà: cổng chắn đường, nhà dưới 1/3 máu bốc cháy và lan, múc nước ở giếng để dập\n- Xe Phá Thành, nỏ lớn, chó săn, Bóng Thành Viên đứng thay người vắng\n- 3 sao, mỗi sao cướp một phần quỹ; mất từ 2 sao thì được phục thù\n- Khiên Thung Lũng, Lệnh Phục Hồi, Búa Phá Thành, Bộ Công Thành và Vé Mùa Công Thành\n\n**👑 Bang hội khác**\n- **Săn Boss Bang**: mỗi tuần gọi một boss thế giới vào đấu trường riêng của bang, ai góp đủ đều có đồ rơi\n- Nhiệm vụ bang mỗi ngày, cửa hàng bang bằng cống hiến, bảng Lãnh Địa\n- Bảng Xếp Hạng có tab **Thưởng tuần**: ai được tính, hạng nào nhận gì\n\n**Khác**\n- Thiết Quyền mạnh hơn khi đánh boss\n- Lực chiến tính thanh hệ phái ở mức đầy, không còn nhảy lên xuống\n- Âm thanh riêng cho đòn đấm Quyền Sư và kèn Du Ca"
+  },
+  {
     "date": "2026-10-20",
     "tag": "Phiên bản",
     "title": "Bản 0.5.38: Chiến Trường 10v10",

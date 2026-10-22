@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-22",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.50: Nhân vật nữ, Thung Lũng có thưởng, Chiến Trường đổi cuộn",
+    "body": "Tạo nhân vật có thêm nhân vật nữ, kiểu mắt, màu mắt, kiểu tóc, màu tóc và màu da mới; khuôn mặt vẽ lại rõ nét hơn. Thung Lũng Bang có thưởng đáng làm hơn: cửa hàng bang bán Mảnh Cuộn Công Thức, mảnh hệ phái, trang phục Lính Gác Thung Lũng và hào quang Hoa Cây Bang; Thủ Thung Lũng và Cây Bang ra mảnh cuộn và ngọc bậc 2; nhà thuê trang trí được bằng đồ nội thất, người cùng bang vào xem được. Chiến Trường đổi huân chương lấy Mảnh Cuộn Công Thức, 10 mảnh ghép thành Cuộn Niêm Phong mở ra cuộn đồ tím của lớp mình; trận cần 1.200 điểm để thắng. Hộ Vệ giữ boss chắc hơn. Thánh Ca hồi sinh được mọi người ngã trong đấu trường Săn Boss Bang. Vào bang chưa đủ 3 ngày thì chưa ra trận bang và chưa nhận thưởng tuần của bang. Vòng quay giữ nguyên sau khi nhận thưởng để quay tiếp.",
+    "discord": "Bản **0.5.50** lên rồi nha 👇\n\n**🧝 Tạo nhân vật**\n- Có nhân vật nữ\n- Thêm kiểu mắt, màu mắt, kiểu tóc, màu tóc và màu da\n- Khuôn mặt vẽ lại rõ hơn, tóc hai bím buộc gọn\n\n**🏰 Thung Lũng Bang có thưởng**\n- Cửa hàng bang: Mảnh Cuộn Công Thức, mảnh hệ phái (có giới hạn mỗi tuần), trang phục Lính Gác Thung Lũng, hào quang Hoa Cây Bang\n- Thủ Thung Lũng thắng ra chiến lợi phẩm, Cây Bang ra thêm mảnh cuộn và ngọc bậc 2\n- Trang trí nhà thuê bằng 12 món nội thất, người cùng bang ghé xem được\n\n**⚔️ Chiến Trường**\n- Đổi huân chương lấy Mảnh Cuộn Công Thức; 10 mảnh ghép thành Cuộn Niêm Phong, mở ra một cuộn đồ tím của lớp mình\n- Thắng ở 1.200 điểm; thua được 7 huân chương, hòa 10\n\n**Khác**\n- Hộ Vệ giữ boss chắc hơn, khó bị đồng đội đánh mạnh giật mất\n- Thánh Ca hồi sinh được mọi người ngã trong Săn Boss Bang; boss bang trả thưởng mỗi nhân vật một lần một tuần\n- Vào bang chưa đủ 3 ngày chưa ra trận bang và chưa nhận thưởng tuần của bang\n- Vòng quay không tự đóng sau khi nhận thưởng, quay tiếp được luôn"
+  },
+  {
     "date": "2026-10-21",
     "tag": "Phiên bản",
     "title": "Bản 0.5.39: Thung Lũng Bang và Công Thành",

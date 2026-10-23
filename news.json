@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-10-24",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.51: Chiến Trường sôi hơn, xin vào bang, nút cảm ứng hết kẹt",
+    "body": "Chiến Trường: hạ một người được 1 điểm, hạ người dẫn đầu phe kia (có vương miện trên đầu) được 5 điểm; tiến độ chiếm đài lửa giữ nguyên khi người chiếm ngã, chỉ phe kia đứng vào mới mài dần đi; bốn con Rook quanh sân, hạ được thì nhận một buff ngẫu nhiên 7–10 giây; chết không mất bữa ăn. Ngã ở Chiến Trường hay Đấu Trường Đội thì xem đồng đội còn đứng chơi tiếp. Đấu Trường Đội hiện thanh máu trên đầu từng người, đội mình xanh, đối thủ đỏ. Bảng PvP gọn lại và gập được trên điện thoại. Bang hội có tab Bang còn chỗ để xin vào, bang chủ hoặc trưởng lão duyệt. Thư có nút Nhận tất cả. Nút chiêu và cần di chuyển trên điện thoại không còn bị kẹt.",
+    "discord": "Bản **0.5.51** lên rồi nha 👇\n\n**⚔️ Chiến Trường**\n- Hạ một người +1 điểm, hạ người dẫn đầu phe kia (có vương miện trên đầu) +5 điểm\n- Đang chiếm đài lửa mà ngã thì tiến độ vẫn giữ, chỉ khi phe kia đứng vào mới bị mài dần\n- Bốn con Rook quanh sân, hạ được nhận một buff ngẫu nhiên 7–10 giây\n- Chết không mất bữa ăn\n- Bảng trận gọn còn một dòng tỉ số, thanh máu đồng đội nhỏ lại\n\n**👀 Ngã rồi vẫn xem được**\n- Ngã ở Chiến Trường hay Đấu Trường Đội thì xem đồng đội còn đứng, bấm ‹ › để đổi người\n\n**🛡️ Đấu Trường Đội**\n- Thanh máu hiện trên đầu từng người: đội mình xanh, đối thủ đỏ, màn hình thoáng hơn\n\n**🏰 Bang hội**\n- Tab **Bang còn chỗ**: xem các bang chưa đầy và xin vào, bang chủ hoặc trưởng lão duyệt\n\n**Khác**\n- Thư có nút **Nhận tất cả** (thư nào không vừa túi thì để nguyên trong hộp, không mất gì)\n- Bảng PvP trên điện thoại gọn lại và gập được\n- Nút chiêu và cần di chuyển trên điện thoại không còn bị kẹt, không phải thoát ra vào lại nữa"
+  },
+  {
     "date": "2026-10-22",
     "tag": "Phiên bản",
     "title": "Bản 0.5.50: Nhân vật nữ, Thung Lũng có thưởng, Chiến Trường đổi cuộn",

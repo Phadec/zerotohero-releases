@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-10-31",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.68: hai sự kiện cùng lúc không còn che nhau",
+    "body": "Khi Sơn Tặc Tập Kích nổ ra giữa lúc Sáu Ngày đang chạy, khung sự kiện giờ hiện cả hai, mỗi sự kiện một khung, thay vì Tập Kích chiếm chỗ làm mất khung Sáu Ngày. Các điểm của Sáu Ngày trên mặt đất (mang người ra, giữ ngã tư, mở hàng rào) cũng không còn chập chờn, và khi Tập Kích kết thúc thì chỉ khung của nó tự ẩn. Tab Sự kiện trong sổ nhiệm vụ liệt kê đủ mọi sự kiện đang chạy ở bản đồ.",
+    "discord": "Bản **0.5.68** sửa lỗi khung sự kiện bị mất khi hai sự kiện chạy cùng lúc 🛠️\n\n- Sơn Tặc Tập Kích nổ ra giữa Sáu Ngày thì giờ hiện cả hai khung, không còn mất khung Sáu Ngày\n- Các điểm của Sáu Ngày trên mặt đất không còn chập chờn lúc có Tập Kích\n- Tập Kích kết thúc thì chỉ khung của nó tự ẩn\n\nCảm ơn bạn hntvy đã báo lỗi nha. Mở lại game ở màn đăng nhập là tự cập nhật."
+  },
+  {
+    "date": "2026-10-30",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.67: Quyền Sư ra đòn nhanh hơn",
+    "body": "Bốn chiêu đầu của Quyền Sư hồi nhanh hơn: Xung Quyền 6 → 5 giây, Chưởng Chấn 7 → 5 giây, Toàn Phong Cước 9 → 7,5 giây, Bách Quyền 24 → 20 giây. Sát thương và năng lượng giữ nguyên.",
+    "discord": "Bản **0.5.67** buff Quyền Sư một chút 🥊\n\n- Xung Quyền hồi 6 → 5 giây\n- Chưởng Chấn hồi 7 → 5 giây\n- Toàn Phong Cước hồi 9 → 7,5 giây\n- Bách Quyền hồi 24 → 20 giây\n\nSát thương và năng lượng giữ nguyên. Mở lại game ở màn đăng nhập là tự cập nhật nha."
+  },
+  {
+    "date": "2026-10-29",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.66: hướng dẫn Cánh Đồng Tân Thủ dễ đọc hơn trên điện thoại",
+    "body": "Trên điện thoại, khung hướng dẫn ở Cánh Đồng Tân Thủ đứng yên ở trên cùng thay vì nhảy theo từng nút, chữ hiện đủ không bị cắt. Lúc nói chuyện với Lão Bram khung không còn che nút «Hỏi về nhiệm vụ»; lúc mở túi đồ hay bảng nhân vật nó thu gọn lên thanh tiêu đề, chạm vào để đọc.",
+    "discord": "Bản **0.5.66** nhỏ thôi nha, sửa khung hướng dẫn ở Cánh Đồng Tân Thủ trên điện thoại 📱\n\n- Khung hướng dẫn đứng yên ở trên cùng, không nhảy theo từng nút nữa, chữ hiện đủ\n- Nói chuyện với Lão Bram không còn bị che nút «Hỏi về nhiệm vụ»\n- Mở túi đồ hay bảng nhân vật thì khung thu gọn lên thanh tiêu đề, chạm vào để đọc\n\nMở lại game ở màn đăng nhập là tự cập nhật nha."
+  },
+  {
+    "date": "2026-10-29",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.65: Cánh Đồng Tân Thủ, cửa sổ trên iPhone và iPad",
+    "body": "Nhân vật mới bắt đầu ở Cánh Đồng Tân Thủ ngoài cổng Eldmoor: lão Bram chỉ cách đi, đánh, lộn, uống thuốc, mặc đồ và cộng điểm ngay trên đồng, rồi mới vào làng. Ai muốn đi lại thì vào Cài Đặt. Sửa lỗi cửa sổ (Nhiệm Vụ, Cài Đặt…) mất nền trên iPhone và iPad, nhất là sau khi đổi ngôn ngữ. Tự nhắm giờ giữ mục tiêu đang đánh: vừa chạy vừa bắn không còn nhảy sang con khác. Điện thoại vuốt được bảng xếp hạng trở lại.",
+    "discord": "Bản **0.5.65** lên rồi nha 👇\n\n**🌾 Cánh Đồng Tân Thủ**\n- Nhân vật mới bắt đầu ở cánh đồng ngoài cổng Eldmoor, lão Bram chỉ cách chơi ngay trên đồng: đi, đánh, lộn, uống thuốc, mặc đồ, cộng điểm\n- Xong là vào làng gặp Trưởng Làng, muốn đi lại thì vào Cài Đặt\n\n**📱 iPhone, iPad**\n- Hết lỗi cửa sổ (Nhiệm Vụ, Cài Đặt…) mất nền, nhìn xuyên ra ngoài, nhất là sau khi đổi ngôn ngữ\n\n**🎯 Tự nhắm**\n- Giữ mục tiêu đang đánh, vừa chạy vừa bắn không còn nhảy sang con khác\n\n**Khác**\n- Điện thoại vuốt được bảng xếp hạng trở lại\n\nMở lại game ở màn đăng nhập là tự cập nhật nha."
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.63: iPhone không còn mất nhà, cây và NPC",
+    "body": "Sửa lỗi trên iPhone: vào game hoặc chơi một lúc thì nhà cửa, cây cối, đồ vật và NPC biến mất, chỉ còn mặt đất và tên lơ lửng. Giờ hình giữ nguyên trên mọi đời iPhone, kể cả iPhone 8 và 11 Pro.",
+    "discord": "Bản **0.5.63** lên rồi nha 👇\n\n**📱 iPhone**\n- Hết lỗi vào game hoặc chơi một lúc thì nhà, cây, đồ vật và NPC biến mất, chỉ còn mặt đất và tên lơ lửng\n- Sửa cho mọi đời iPhone, kể cả iPhone 8 và 11 Pro\n\nMở lại game ở màn đăng nhập là tự cập nhật nha."
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.62: Thuê phòng Elsie bằng Kim Cương, Tân Thủ đấm đủ combo",
+    "body": "Giao diện thuê phòng ở Elsie được làm lại rõ ràng hơn trên PC và điện thoại. Thuê hoặc gia hạn phòng nay dùng 300 Kim Cương cho 7 ngày, có hiển thị số dư và trạng thái thiếu Kim Cương. Tân Thủ cầm bao tay sẽ nối đúng jab, cross và hook thay vì lặp lại một tay.",
+    "discord": "Bản **0.5.62** lên rồi nha 👇\n\n**🏠 Phòng trọ Elsie**\n- Giao diện thuê phòng gọn và dễ đọc hơn trên PC lẫn điện thoại\n- Thuê hoặc gia hạn: **300 Kim Cương / 7 ngày**\n- Hiện số dư, trạng thái đang tải và báo thiếu Kim Cương rõ ràng\n\n**👊 Tân Thủ**\n- Cầm bao tay sẽ nối đủ **jab → cross → hook**, không còn lặp lại cú đấm một tay\n\nWeb tự cập nhật ở màn hình đăng nhập nha."
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.61: Tạm tắt hướng dẫn tân thủ",
+    "body": "Tạm tắt hướng dẫn tân thủ và nút mở lại hướng dẫn trong Cài đặt, Trợ giúp. Tiến độ hướng dẫn đã lưu được giữ nguyên.",
+    "discord": "Bản **0.5.61**: tạm tắt hướng dẫn tân thủ. Tiến độ đã lưu được giữ nguyên. PC và Mac tự cập nhật ở màn đăng nhập."
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.60: Cài Đặt mới, mua Kim Cương gọn trên điện thoại",
+    "body": "Cài Đặt làm lại: mỗi dòng là một công tắc gạt kèm giải thích ngắn, chia nhóm rõ ràng; tab Đồ họa có mức Thấp, Vừa, Cao để chỉnh nhanh, mỗi tab có nút Khôi phục mặc định, Âm thanh có nút Tắt tiếng riêng cho nhạc và hiệu ứng; các nút thoát game, đổi mật khẩu, gắn email, xoá tài khoản gom vào tab Tài khoản. Trên iPhone các tab của mọi bảng không còn bị ẩn. Bảng Kim Cương trên điện thoại gọn lại: Mua Kim Cương, Thẻ Tháng, Đổi ra vàng thành tab, nút đóng luôn ở chỗ. Vầng sáng quanh nhân vật không còn chớp lúc hoàng hôn và bình minh. Màn hình tải trên điện thoại nằm giữa, chiêu chưa đủ cấp không còn ô vuông che nút, bảng Thú cưỡi giữ tab Thú chức năng, nút Bỏ qua của hướng dẫn tân thủ không bị cuộn mất. Vương miện trên cờ Eldmoor, đèn đường Aldermark và chiến tích ở Thung Lũng được vẽ lại cho cân.",
+    "discord": "Bản **0.5.60** lên rồi nha 👇\n\n**⚙️ Cài Đặt mới**\n- Mỗi dòng là công tắc gạt kèm giải thích ngắn, chia nhóm gọn\n- Đồ họa có mức **Thấp / Vừa / Cao** để chỉnh một lần là xong\n- Mỗi tab có **Khôi phục mặc định**, Âm thanh có nút **Tắt tiếng** cho nhạc và hiệu ứng\n- Thoát game, đổi mật khẩu, gắn email, xoá tài khoản gom vào tab **Tài khoản**\n\n**📱 Điện thoại**\n- iPhone: tab của mọi bảng không còn bị ẩn\n- Bảng Kim Cương gọn hơn: Mua, Thẻ Tháng, Đổi ra vàng thành tab, nút đóng luôn ở chỗ\n- Màn hình tải nằm giữa, chiêu chưa đủ cấp không còn ô vuông che nút\n- Bảng Thú cưỡi giữ tab Thú chức năng, nút Bỏ qua của hướng dẫn không bị cuộn mất\n\n**✨ Nhỏ mà vui**\n- Vầng sáng quanh nhân vật hết chớp lúc hoàng hôn và bình minh\n- Vương miện trên cờ Eldmoor, đèn đường Aldermark và chiến tích Thung Lũng vẽ lại cho cân\n\nPC và Mac tự cập nhật ở màn đăng nhập nha."
+  },
+  {
+    "date": "2026-10-28",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.59: Quên tài khoản lấy lại qua email, thị trấn đông người mượt hơn",
+    "body": "Màn đăng nhập có \"Quên tài khoản?\": nhập tên tài khoản là mật khẩu mới được gửi về email đã gắn. Tài khoản cũ gắn email trong Cài Đặt, xác nhận bằng mã gửi về hộp thư. Thị trấn và sự kiện đông người chạy mượt hơn hẳn, nhất là khi tắt Ẩn bớt người chơi; điện thoại không còn lâu lâu tụt khung hình. Tử Ấn kết liễu được người chơi dưới ngưỡng máu và Đâm Lén sau lưng gây đủ sát thương lên người chơi như lên quái. Bình máu, bình mana và đồ ăn có tiếng uống, tiếng nhai. Mép cỏ hai bên đường đất vẽ lại có bóng, mặt đường dịu mắt hơn. Cây cầu bắc qua sông đứng đúng trên mặt nước.",
+    "discord": "Bản **0.5.59** lên rồi nha 👇\n\n**🔑 Tài khoản**\n- Quên mật khẩu thì bấm \"Quên tài khoản?\" ở màn đăng nhập, nhập tên tài khoản, mật khẩu mới gửi về email\n- Tài khoản cũ vào Cài Đặt gắn email, xác nhận bằng mã gửi về hộp thư\n\n**🏘️ Đông người mượt hơn**\n- Thị trấn và sự kiện đông người chạy mượt hơn hẳn, kể cả khi tắt Ẩn bớt người chơi\n- Điện thoại không còn lâu lâu tụt khung hình\n\n**⚔️ PvP**\n- Tử Ấn kết liễu được người chơi dưới ngưỡng máu\n- Đâm Lén sau lưng gây đủ sát thương lên người chơi\n\n**🎧 Nhỏ mà vui**\n- Uống bình có tiếng mở nắp, ăn có tiếng nhai\n- Mép cỏ hai bên đường vẽ lại có bóng, cầu qua sông đứng đúng trên mặt nước\n\nCập nhật trên điện thoại qua cửa hàng nha, bản iOS đang chờ TestFlight duyệt."
+  },
+  {
+    "date": "2026-10-26",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.55: Giao diện điện thoại mới, hào quang đẹp hơn, bảng Lực Chiến công bằng hơn",
+    "body": "Giao diện điện thoại làm lại: mỗi bảng có tab thẻ trên cùng cạnh nút ✕, chat mở thành ngăn kéo bên trái, menu ☰ thành lưới biểu tượng, túi đồ gọn một lưới cuộn với bộ lọc dạng biểu tượng. Ngoại hình tách thành bảng riêng (Menu › Ngoại hình, phím \",\"): trang phục và hào quang đều cho mặc thử trước khi mặc. Hào quang vẽ lại mềm hơn và nằm đúng giữa chân nhân vật. Bảng Lực Chiến và thưởng tuần chỉ tính nhân vật có vào game trong 7 ngày qua; dưới bảng có đếm ngược tới giờ chốt và hạng của bạn lúc chốt tuần trước. Hộp thư có nút Xoá tất cả, thư còn đồ hoặc vàng được giữ lại. Huyết Xung và các chiêu lao, dịch chuyển đi ngay lúc bấm. Tỉ thí, Đấu Trường Đội, Bang Chiến và Chiến Trường bắt đầu công bằng: hết đếm ngược hay sang ván mới thì mọi kỹ năng hồi lại và bẫy đặt trước đó bị gỡ. Độc và bỏng của người chơi không còn giết trong tỉ thí (dừng ở 1 máu và tính thắng), tự hết khi trận kết thúc, khi vào thành hay khi người kia không còn được đánh bạn. Tỉ thí không còn tự kết thúc vì hai người đứng xa nhau trong đấu trường, và bảng tỉ thí ghi rõ vì sao trận kết thúc. Cài Đặt → Đồ họa có Ẩn bớt người chơi ở thành và sự kiện đông người. Màn hình tải và chuyển map không còn giật. Thị trấn, đầm lầy và vùng tro có không khí mới (nắng xiên, sương, tông ấm); áo, giáp và giáp vai vẽ lại gọn hơn, giáp vai to dần theo bậc. Lối tới Trạm Muối Cũ và Họng Vết Nứt ở Biên Ải dễ thấy hơn. Icene trở lại quảng trường Eldmoor, Sigrun ở Dunmarch cường hóa được. Laptop có hai card đồ họa tự dùng card rời.",
+    "discord": "Bản **0.5.55** đã lên rồi nha 👇\n\n**📱 Giao diện điện thoại mới**\n- Mỗi bảng có **tab thẻ trên cùng** cạnh nút ✕, không còn hai ba hàng tab chồng nhau\n- **Chat** mở thành ngăn kéo bên trái, **menu ☰** thành lưới biểu tượng\n- **Túi đồ** gọn một lưới cuộn, bộ lọc dạng biểu tượng\n\n**✨ Ngoại hình & hào quang**\n- **Ngoại hình** là bảng riêng (Menu › Ngoại hình, phím **,**)\n- Trang phục và **hào quang** đều cho **mặc thử** trước\n- Hào quang vẽ lại mềm hơn, nằm **đúng giữa chân** nhân vật\n\n**🏆 Bảng Lực Chiến**\n- Bảng và **thưởng tuần** chỉ tính nhân vật có vào game trong **7 ngày qua**\n- Dưới bảng có **đếm ngược** giờ chốt và **hạng tuần trước** của bạn\n\n**⚔️ Chiến đấu & PvP**\n- **Huyết Xung** và các chiêu lao, dịch chuyển đi **ngay lúc bấm**\n- Tỉ thí, Đấu Trường Đội, Bang Chiến, Chiến Trường: hết đếm ngược hay sang ván mới thì **mọi kỹ năng hồi lại**, bẫy đặt trước bị gỡ\n- **Độc/bỏng** của người chơi không còn giết trong tỉ thí (dừng ở 1 máu, tính thắng), tự hết khi trận xong, khi vào thành\n- Tỉ thí **không còn tự kết thúc** vì đứng xa nhau trong đấu trường; bảng tỉ thí **ghi rõ lý do** kết thúc\n\n**🌲 Thế giới**\n- Thị trấn, đầm lầy, vùng tro có **không khí mới**: nắng xiên, sương, tông ấm\n- Áo, giáp, giáp vai vẽ lại gọn hơn; giáp vai **to dần theo bậc**\n- Lối tới **Trạm Muối Cũ** và **Họng Vết Nứt** ở Biên Ải dễ thấy hơn\n- **Icene** trở lại quảng trường Eldmoor, **Sigrun** ở Dunmarch cường hóa được\n\n**🛠️ Tiện ích**\n- Hộp thư có **Xoá tất cả** (thư còn đồ hoặc vàng được giữ lại)\n- Cài Đặt → Đồ họa: **Ẩn bớt người chơi** ở chỗ đông\n- Màn hình tải và chuyển map **không còn giật**\n- Laptop hai card đồ họa **tự dùng card rời**\n\nGặp lỗi cứ gửi ở #báo-lỗi nha ❤️"
+  },
+  {
     "date": "2026-10-24",
     "tag": "Phiên bản",
     "title": "Bản 0.5.51: Chiến Trường sôi hơn, xin vào bang, nút cảm ứng hết kẹt",

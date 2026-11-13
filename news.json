@@ -1,5 +1,54 @@
 [
   {
+    "date": "2026-11-12",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.77: giao diện mới theo hệ phái, hết kẹt 80% khi vào game",
+    "body": "Giao diện trong trận được làm lại: thẻ nhân vật, thanh kỹ năng, bản đồ nhỏ, khung mục tiêu và thanh boss đổi màu theo hệ phái của bạn, trên cả máy tính lẫn điện thoại. Sửa lỗi vào game đứng ở 80% với các nhân vật đã mở nhiều bản đồ. Hiệu ứng kỹ năng của mọi lớp được vẽ lại, toàn bộ icon vật phẩm và kỹ năng được vẽ tay, và đồ hệ phái mặc lên người giờ giống đúng icon của nó. Sửa lỗi tay và vũ khí giật một nhịp khi vừa chạy vừa chĩa vũ khí xuống.",
+    "discord": "Bản **0.5.77** lên rồi nha\n\n- Giao diện trong trận làm lại, đổi màu theo hệ phái (máy tính và điện thoại): thẻ nhân vật, thanh kỹ năng, bản đồ nhỏ, khung mục tiêu, thanh boss\n- Sửa lỗi vào game đứng ở 80%\n- Hiệu ứng kỹ năng của mọi lớp vẽ lại\n- Icon vật phẩm và kỹ năng vẽ tay toàn bộ, đồ hệ phái mặc lên người giống đúng icon\n- Sửa lỗi tay và vũ khí giật khi vừa chạy vừa chĩa vũ khí xuống"
+  },
+  {
+    "date": "2026-11-02",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.76: trình bằng chứng cho NPC dễ hiểu hơn",
+    "body": "Ở các nhiệm vụ phải đưa đồ cho NPC xem (như Lá Thư Đến Muộn), đưa lại một món đã đưa rồi thì NPC từng bảo là đồ sai, khiến nhiều bạn tưởng bị từ chối và bỏ nhiệm vụ làm lại. Giờ NPC nhận ra món đó, món đã đưa được ghi (đã đưa) trong danh sách, và sau mỗi lần đưa NPC nói rõ còn thiếu món nào.",
+    "discord": "Bản **0.5.76** lên rồi nha\n\n- Nhiệm vụ đưa đồ cho NPC xem (Lá Thư Đến Muộn, Bức Vách Những Cái Tên...): đưa lại món đã đưa không còn bị bảo là đồ sai, món đã đưa được đánh dấu, NPC nói rõ còn thiếu món nào"
+  },
+  {
+    "date": "2026-11-01",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.75: rời Hộ Xe là khung tắt ngay",
+    "body": "Rời đường Hộ Xe (bấm Rời đường, đi qua cổng, thoát game hay được đưa về sau khi thắng) đôi khi vẫn để lại khung Hộ Xe trên màn hình, và bấm Rời đường lần nữa cũng không tắt được. Giờ khung tắt ngay khi bạn rời đường hoặc đổi bản đồ.",
+    "discord": "Bản **0.5.75** lên rồi nha\n\n- Hộ Xe: rời đường (nút Rời đường, qua cổng, thoát game, được đưa về sau trận thắng) là khung Hộ Xe tắt ngay, không còn kẹt lại trên màn hình"
+  },
+  {
+    "date": "2026-11-01",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.73: vuốt chiêu trên điện thoại ăn hơn",
+    "body": "Trên điện thoại, một cú vuốt chiêu thật nhanh (nhất là lúc vừa chạy vừa đánh) đôi khi bị game hiểu là chạm, nên chiêu bay vào con gần nhất hoặc hướng đang nhìn chứ không theo hướng vuốt, trông như vuốt không ăn. Giờ chỗ ngón nhấc lên cũng được tính, cú vuốt nhanh đến đâu cũng đi đúng hướng.",
+    "discord": "Bản **0.5.73** lên rồi nha\n\n- Điện thoại: vuốt chiêu thật nhanh lúc đang chạy giờ đi đúng hướng vuốt, không còn bị hiểu thành chạm rồi bay vào con gần nhất"
+  },
+  {
+    "date": "2026-11-01",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.72: khung sự kiện trên điện thoại không còn mất",
+    "body": "Trên điện thoại, khi Tập Kích nổ ra giữa Sáu Ngày (hay hai sự kiện bất kỳ cùng lúc), các khung sự kiện bị ép thành vạch trống nên trông như mất hẳn. Giờ mỗi sự kiện luôn hiện đủ một dòng tên và đồng hồ, mở ra vẫn thấy giai đoạn; khung nhiệm vụ luôn giữ dòng tiêu đề, chỉ danh sách bên dưới thu lại khi chật chỗ.",
+    "discord": "Bản **0.5.72** lên rồi nha\n\n- Điện thoại: Tập Kích nổ ra giữa Sáu Ngày không còn làm mất khung Sáu Ngày, hai sự kiện cùng lúc đều hiện đủ tên và đồng hồ\n- Khung nhiệm vụ trên điện thoại luôn giữ dòng tiêu đề khi màn hình chật"
+  },
+  {
+    "date": "2026-10-31",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.71: Bách Quyền mạnh hơn, máy tính tự cập nhật lại được",
+    "body": "Bách Quyền của Quyền Sư đánh mạnh hơn hẳn: mỗi cú nặng thêm gần một nửa và với xa hơn một chút, nên cả tràng tám cú giờ ngang các tuyệt kỹ của lớp khác. Bản máy tính giờ luôn tìm bản mới ngay ở màn đăng nhập, kể cả khi chưa vào được máy chủ, nên không còn kẹt ở bản cũ như bản 0.5.69 vừa rồi.",
+    "discord": "Bản **0.5.71** lên rồi nha\n\n- Bách Quyền (Quyền Sư) mạnh hơn: mỗi cú nặng thêm gần một nửa, với xa hơn chút\n- Máy tính tự tìm bản mới ngay ở màn đăng nhập, kể cả khi chưa vào được máy chủ\n\nMáy tính nào còn kẹt ở 0.5.69 không vào được: tắt game, xoá thư mục `%APPDATA%\\Zero to Hero\\web` (chỉ thư mục web thôi) rồi mở lại là tự cập nhật."
+  },
+  {
+    "date": "2026-10-31",
+    "tag": "Phiên bản",
+    "title": "Bản 0.5.69: Tự nhắm giữ mục tiêu, Bỏ qua không còn mất ở Cánh Đồng Tân Thủ",
+    "body": "Trên điện thoại, con quái Tự nhắm chọn giờ được khoá luôn như khi kéo nút đánh: vừa chạy vừa bắn vẫn bắn đúng con đó tới khi nó chết hoặc chạy quá xa, không phải khoá tay nữa. Ở Cánh Đồng Tân Thủ, thẻ hướng dẫn và nút Bỏ qua ở lại cho tới khi bạn thật sự ra khỏi thung lũng, nên không còn cảnh bị kẹt mà mất nút ra. Trên máy tính, thẻ thu gọn cũng có nút Bỏ qua.",
+    "discord": "Bản **0.5.69** sửa hai lỗi 🛠️\n\n- Tự nhắm (điện thoại) khoá luôn con nó chọn: vừa chạy vừa bắn không còn đổi sang con khác\n- Cánh Đồng Tân Thủ: nút Bỏ qua không còn biến mất làm kẹt trong thung lũng\n- Máy tính: thẻ hướng dẫn thu gọn cũng có nút Bỏ qua\n\nMở lại game ở màn đăng nhập là tự cập nhật."
+  },
+  {
     "date": "2026-10-31",
     "tag": "Phiên bản",
     "title": "Bản 0.5.68: hai sự kiện cùng lúc không còn che nhau",
